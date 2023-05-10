@@ -1,0 +1,1565 @@
+{"from_entity": "发光二极管灯具", "rel": "上游材料", "to_entity": "N型半导体"}
+{"from_entity": "LED补光灯", "rel": "上游材料", "to_entity": "N型半导体"}
+{"from_entity": "手持喷码机", "rel": "上游材料", "to_entity": "PZT半导体压电晶体材料"}
+{"from_entity": "发光二极管灯具", "rel": "上游材料", "to_entity": "P型半导体"}
+{"from_entity": "LED补光灯", "rel": "上游材料", "to_entity": "P型半导体"}
+{"from_entity": "三极管", "rel": "上游材料", "to_entity": "半导体"}
+{"from_entity": "力敏传感器", "rel": "上游材料", "to_entity": "半导体"}
+{"from_entity": "开关二极管", "rel": "上游材料", "to_entity": "半导体"}
+{"from_entity": "椭圆偏振光谱仪", "rel": "上游材料", "to_entity": "半导体"}
+{"from_entity": "微压力传感器", "rel": "上游材料", "to_entity": "半导体"}
+{"from_entity": "光继电器", "rel": "上游材料", "to_entity": "半导体"}
+{"from_entity": "NPN型三极管", "rel": "上游材料", "to_entity": "半导体"}
+{"from_entity": "波导激光器", "rel": "上游材料", "to_entity": "半导体"}
+{"from_entity": "光敏电阻器", "rel": "上游材料", "to_entity": "半导体材料"}
+{"from_entity": "LED手电筒", "rel": "上游材料", "to_entity": "半导体材料"}
+{"from_entity": "太阳能面板", "rel": "上游材料", "to_entity": "半导体材料"}
+{"from_entity": "垂直多结电池", "rel": "上游材料", "to_entity": "半导体材料"}
+{"from_entity": "电子镇流器", "rel": "上游材料", "to_entity": "半导体电子元件"}
+{"from_entity": "电子镇流", "rel": "上游材料", "to_entity": "半导体电子元件"}
+{"from_entity": "二极管门电路", "rel": "上游材料", "to_entity": "半导体二极管"}
+{"from_entity": "段LED显示器", "rel": "上游材料", "to_entity": "半导体发光二极管"}
+{"from_entity": "数字电路", "rel": "上游材料", "to_entity": "半导体工艺制成数字集成器件"}
+{"from_entity": "光学逻辑", "rel": "上游材料", "to_entity": "半导体光放大器"}
+{"from_entity": "光电三极管", "rel": "上游材料", "to_entity": "半导体硅"}
+{"from_entity": "半导体电池", "rel": "上游材料", "to_entity": "半导体硅硒"}
+{"from_entity": "石英晶体器件", "rel": "上游材料", "to_entity": "半导体器件"}
+{"from_entity": "无触点继电器", "rel": "上游材料", "to_entity": "半导体器件"}
+{"from_entity": "液体太阳能电池", "rel": "上游材料", "to_entity": "半导体硒化镉"}
+{"from_entity": "力觉传感器", "rel": "上游材料", "to_entity": "半导体应变片"}
+{"from_entity": "测量线路", "rel": "上游材料", "to_entity": "半导体元件"}
+{"from_entity": "半绝缘体", "rel": "上游材料", "to_entity": "本征半导体"}
+{"from_entity": "微传感器", "rel": "上游材料", "to_entity": "标准半导体工艺兼容材料"}
+{"from_entity": "旅行充电器", "rel": "上游材料", "to_entity": "电力电子半导体元器件"}
+{"from_entity": "激光劝阻器", "rel": "上游材料", "to_entity": "发射红色激光半导体激光二极管"}
+{"from_entity": "非晶态半导体器件", "rel": "上游材料", "to_entity": "非晶硅太阳能电池"}
+{"from_entity": "CCD传感器", "rel": "上游材料", "to_entity": "高感光度半导体材料"}
+{"from_entity": "玻璃半导体", "rel": "上游材料", "to_entity": "过渡金属离子"}
+{"from_entity": "太阳能电池", "rel": "上游材料", "to_entity": "化合物半导体"}
+{"from_entity": "半导体激光电源", "rel": "上游材料", "to_entity": "激光电源脉冲控制电路"}
+{"from_entity": "PN半导体", "rel": "上游材料", "to_entity": "介于导体"}
+{"from_entity": "PN半导体", "rel": "上游材料", "to_entity": "绝缘体之间"}
+{"from_entity": "TDLAS", "rel": "上游材料", "to_entity": "可调谐半导体激光器"}
+{"from_entity": "微电子材料", "rel": "上游材料", "to_entity": "宽禁带半导体材料"}
+{"from_entity": "复合半导体", "rel": "上游材料", "to_entity": "两种"}
+{"from_entity": "半导体激光电源", "rel": "上游材料", "to_entity": "脉冲控制电路"}
+{"from_entity": "半导体热敏电阻", "rel": "上游材料", "to_entity": "敏感元件"}
+{"from_entity": "半导体器件", "rel": "上游材料", "to_entity": "砷化镓"}
+{"from_entity": "集成传感器", "rel": "上游材料", "to_entity": "生产硅基半导体集成"}
+{"from_entity": "复合半导体", "rel": "上游材料", "to_entity": "是两种以上半导体"}
+{"from_entity": "微晶半导体材料", "rel": "上游材料", "to_entity": "数纳米至数十纳米之间"}
+{"from_entity": "微晶半导体", "rel": "上游材料", "to_entity": "微晶硅"}
+{"from_entity": "半导体激光电源", "rel": "上游材料", "to_entity": "稳压电路"}
+{"from_entity": "玻璃半导体", "rel": "上游材料", "to_entity": "无机氧化物"}
+{"from_entity": "电子节拍器", "rel": "上游材料", "to_entity": "现代半导体"}
+{"from_entity": "半导体整流器", "rel": "上游材料", "to_entity": "氧化亚铜"}
+{"from_entity": "有机光伏电池", "rel": "上游材料", "to_entity": "有机半导体"}
+{"from_entity": "材料", "to_entity": "半导体材料", "rel": "产品小类"}
+{"from_entity": "半导体器件", "to_entity": "非晶态半导体器件", "rel": "产品小类"}
+{"from_entity": "复合", "to_entity": "复合半导体", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "半导体集成电路", "rel": "产品小类"}
+{"from_entity": "玻璃", "to_entity": "玻璃半导体", "rel": "产品小类"}
+{"from_entity": "元件", "to_entity": "半导体元件", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体电池", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "本征半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "微晶半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "化合物半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体材料", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体光放大器", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体集成电路", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "有机半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体二极管", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "现代半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体应变片", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体硅", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "P型半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体碳基", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "复合半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体热敏电阻", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体二极管（", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体器件", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "玻璃半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体制冷片", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体电子元件", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "光半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体元件", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "PN半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "无晶圆厂半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体激光电源", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体硅硒", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体硒化镉", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "N型半导体", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体整流器", "rel": "产品小类"}
+{"from_entity": "半导体材料", "to_entity": "高感光度半导体材料", "rel": "产品小类"}
+{"from_entity": "半导体材料", "to_entity": "微晶半导体材料", "rel": "产品小类"}
+{"from_entity": "半导体材料", "to_entity": "宽禁带半导体材料", "rel": "产品小类"}
+{"from_entity": "半导体材料", "to_entity": "分子半导体材料", "rel": "产品小类"}
+{"from_entity": "半导体材料", "to_entity": "有机半导体材料", "rel": "产品小类"}
+{"from_entity": "放大器", "to_entity": "半导体光放大器", "rel": "产品小类"}
+{"from_entity": "器件", "to_entity": "半导体器件", "rel": "产品小类"}
+{"from_entity": "半导体元器件", "to_entity": "电力电子半导体元器件", "rel": "产品小类"}
+{"from_entity": "电子元件", "to_entity": "半导体电子元件", "rel": "产品小类"}
+{"from_entity": "二极管", "to_entity": "半导体二极管", "rel": "产品小类"}
+{"from_entity": "发光二极管", "to_entity": "半导体发光二极管", "rel": "产品小类"}
+{"from_entity": "热敏电阻", "to_entity": "半导体热敏电阻", "rel": "产品小类"}
+{"from_entity": "电池", "to_entity": "半导体电池", "rel": "产品小类"}
+{"from_entity": "化合物", "to_entity": "化合物半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "本征半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "微晶半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "化合物半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "有机半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "现代半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "P型半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "复合半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "玻璃半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "光半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "PN半导体", "rel": "产品小类"}
+{"from_entity": "导体", "to_entity": "N型半导体", "rel": "产品小类"}
+{"from_entity": "有机", "to_entity": "有机半导体", "rel": "产品小类"}
+{"from_entity": "数字集成电路", "rel": "上游材料", "to_entity": "编号"}
+{"from_entity": "微型计算机", "rel": "上游材料", "to_entity": "大规模集成电路"}
+{"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "电路"}
+{"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "固定封环"}
+{"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "硅基板"}
+{"from_entity": "集成电路板", "rel": "上游材料", "to_entity": "硅胶"}
+{"from_entity": "电子节拍器", "rel": "上游材料", "to_entity": "集成电路"}
+{"from_entity": "音响设备", "rel": "上游材料", "to_entity": "集成电路"}
+{"from_entity": "电子仪表", "rel": "上游材料", "to_entity": "集成电路"}
+{"from_entity": "IC电路", "rel": "上游材料", "to_entity": "集成电路板二"}
+{"from_entity": "电视遥控器", "rel": "上游材料", "to_entity": "集成电路电板"}
+{"from_entity": "基准电压源", "rel": "上游材料", "to_entity": "模拟集成电路"}
+{"from_entity": "数字集成电路", "rel": "上游材料", "to_entity": "前缀"}
+{"from_entity": "电路板", "to_entity": "集成电路板", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路电板", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路板二", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路板", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路芯片", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "模拟集成电路", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "中大规模集成电路", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "半导体集成电路", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路MMIC", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路电板", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路板二", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路板", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "大规模集成电路", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路芯片", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "数字集成电路", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体集成电路", "rel": "产品小类"}
+{"from_entity": "大规模集成电路", "to_entity": "中大规模集成电路", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "集成电路芯片", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "模拟集成电路", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "集成电路", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "数字集成电路", "rel": "产品小类"}
+{"from_entity": "数字", "to_entity": "数字集成电路", "rel": "产品小类"}
+{"from_entity": "非接触式IC卡", "rel": "上游材料", "to_entity": "IC芯片"}
+{"from_entity": "二代证读卡器", "rel": "上游材料", "to_entity": "RFID芯片"}
+{"from_entity": "赛格导航芯片", "rel": "上游材料", "to_entity": "RF射频芯片"}
+{"from_entity": "三维芯片", "rel": "上游材料", "to_entity": "绑定材料层"}
+{"from_entity": "薄膜发电", "rel": "上游材料", "to_entity": "薄膜太阳能电池芯片"}
+{"from_entity": "KD-高性能计算机", "rel": "上游材料", "to_entity": "超多端口千兆以太网交换芯片"}
+{"from_entity": "容错计算机系统", "rel": "上游材料", "to_entity": "存储芯片"}
+{"from_entity": "IC芯片", "rel": "上游材料", "to_entity": "大量微电子元器件"}
+{"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "电路"}
+{"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "固定封环"}
+{"from_entity": "计算机芯片", "rel": "上游材料", "to_entity": "硅材料"}
+{"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "硅基板"}
+{"from_entity": "赛格导航芯片", "rel": "上游材料", "to_entity": "基带芯片"}
+{"from_entity": "生物芯片", "rel": "上游材料", "to_entity": "基因芯片"}
+{"from_entity": "三维芯片", "rel": "上游材料", "to_entity": "晶片"}
+{"from_entity": "时钟电路", "rel": "上游材料", "to_entity": "晶震控制芯片"}
+{"from_entity": "芯片镊子", "rel": "上游材料", "to_entity": "聚醚醚酮"}
+{"from_entity": "汽车氧吧", "rel": "上游材料", "to_entity": "生态负离子生成芯片"}
+{"from_entity": "数据采集单元", "rel": "上游材料", "to_entity": "数字信号处理芯片"}
+{"from_entity": "三维芯片", "rel": "上游材料", "to_entity": "体硅层"}
+{"from_entity": "赛格导航芯片", "rel": "上游材料", "to_entity": "微处理器"}
+{"from_entity": "空调遥控器", "rel": "上游材料", "to_entity": "微处理器芯片"}
+{"from_entity": "能耗数据采集器", "rel": "上游材料", "to_entity": "微处理器芯片"}
+{"from_entity": "电视机遥控器", "rel": "上游材料", "to_entity": "微处理器芯片"}
+{"from_entity": "串口无线模块", "rel": "上游材料", "to_entity": "无线收发芯片"}
+{"from_entity": "生物芯片", "rel": "上游材料", "to_entity": "细胞芯片"}
+{"from_entity": "音乐芯片", "rel": "上游材料", "to_entity": "小量分立元件"}
+{"from_entity": "车载导航仪", "rel": "上游材料", "to_entity": "芯片"}
+{"from_entity": "安普锐摄像机", "rel": "上游材料", "to_entity": "芯片"}
+{"from_entity": "塑胶U盘", "rel": "上游材料", "to_entity": "芯片"}
+{"from_entity": "计算机芯片", "rel": "上游材料", "to_entity": "许多微电路"}
+{"from_entity": "单片计算机", "rel": "上游材料", "to_entity": "一块芯片"}
+{"from_entity": "汽车干扰器", "rel": "上游材料", "to_entity": "一块芯片"}
+{"from_entity": "音乐芯片", "rel": "上游材料", "to_entity": "振荡电路"}
+{"from_entity": "芯片武器", "rel": "上游材料", "to_entity": "中央处理器CPU"}
+{"from_entity": "电动四轮车控制器", "rel": "上游材料", "to_entity": "主芯片"}
+{"from_entity": "无线", "to_entity": "无线收发芯片", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路芯片", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路芯片", "rel": "产品小类"}
+{"from_entity": "存储", "to_entity": "存储芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "微处理器芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "图像处理芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "晶震控制芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "计算机芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "显示芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "存储芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "芯片镊子", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "生物芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "南桥芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "音乐芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "主芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "基因芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "三维芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "将CPU芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "RFID芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "赛格导航芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "细胞芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "无线收发芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "一块芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "北桥芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "RF射频芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "IC芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "密码生成芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "基带芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "集成电路芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "数字处理芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "高性能芯片", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "芯片武器", "rel": "产品小类"}
+{"from_entity": "音乐", "to_entity": "音乐芯片", "rel": "产品小类"}
+{"from_entity": "密码", "to_entity": "密码生成芯片", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "IC芯片", "rel": "产品小类"}
+{"from_entity": "射频芯片", "to_entity": "RF射频芯片", "rel": "产品小类"}
+{"from_entity": "计算机", "to_entity": "计算机芯片", "rel": "产品小类"}
+{"from_entity": "RFID", "to_entity": "RFID芯片", "rel": "产品小类"}
+{"from_entity": "生物", "to_entity": "生物芯片", "rel": "产品小类"}
+{"from_entity": "基因", "to_entity": "基因芯片", "rel": "产品小类"}
+{"from_entity": "数字", "to_entity": "数字处理芯片", "rel": "产品小类"}
+{"from_entity": "ICP-MS", "rel": "上游材料", "to_entity": "ICP焰炬"}
+{"from_entity": "非接触式IC卡", "rel": "上游材料", "to_entity": "IC芯片"}
+{"from_entity": "牛奶猪", "rel": "上游材料", "to_entity": "PIC杂交猪"}
+{"from_entity": "氟硅材料", "rel": "上游材料", "to_entity": "SIC键"}
+{"from_entity": "MOSAIC", "rel": "上游材料", "to_entity": "贝壳"}
+{"from_entity": "IC卡远传水表", "rel": "上游材料", "to_entity": "表头"}
+{"from_entity": "有机RFID", "rel": "上游材料", "to_entity": "传统IC工艺在硅片"}
+{"from_entity": "IC芯片", "rel": "上游材料", "to_entity": "大量微电子元器件"}
+{"from_entity": "IC矮星系", "rel": "上游材料", "to_entity": "大约"}
+{"from_entity": "MMIC", "rel": "上游材料", "to_entity": "低噪声放大器"}
+{"from_entity": "IC卡冷水水表", "rel": "上游材料", "to_entity": "电磁阀"}
+{"from_entity": "射频卡电表", "rel": "上游材料", "to_entity": "非接触式IC卡"}
+{"from_entity": "ICP-MS", "rel": "上游材料", "to_entity": "辅助气"}
+{"from_entity": "非接触式IC卡", "rel": "上游材料", "to_entity": "感应天线"}
+{"from_entity": "IC电路", "rel": "上游材料", "to_entity": "集成电路板二"}
+{"from_entity": "ICP-MS", "rel": "上游材料", "to_entity": "接口装置"}
+{"from_entity": "电子硬盘", "rel": "上游材料", "to_entity": "控制IC"}
+{"from_entity": "IC卡冷水水表", "rel": "上游材料", "to_entity": "控制器"}
+{"from_entity": "ICP-MS", "rel": "上游材料", "to_entity": "冷却气"}
+{"from_entity": "IC卡居住证", "rel": "上游材料", "to_entity": "两张照片"}
+{"from_entity": "IC电路", "rel": "上游材料", "to_entity": "三极管"}
+{"from_entity": "IC卡居住证", "rel": "上游材料", "to_entity": "身份证"}
+{"from_entity": "ICASH", "rel": "上游材料", "to_entity": "塑胶"}
+{"from_entity": "碳化硅陶瓷", "rel": "上游材料", "to_entity": "碳化硅SIC"}
+{"from_entity": "ICP-MS", "rel": "上游材料", "to_entity": "通载气"}
+{"from_entity": "MOSAIC", "rel": "上游材料", "to_entity": "小石子"}
+{"from_entity": "IC矮星系", "rel": "上游材料", "to_entity": "星系"}
+{"from_entity": "里葆多注射液", "rel": "上游材料", "to_entity": "盐酸多星脂质体DOXORUBICINHCL"}
+{"from_entity": "IC卡冷水水表", "rel": "上游材料", "to_entity": "远传水表"}
+{"from_entity": "ICP-MS", "rel": "上游材料", "to_entity": "质谱仪"}
+{"from_entity": "IC卡居住证", "rel": "上游材料", "to_entity": "租房合同"}
+{"from_entity": "集成电路", "to_entity": "集成电路MMIC", "rel": "产品小类"}
+{"from_entity": "IC卡", "to_entity": "IC卡冷水水表", "rel": "产品小类"}
+{"from_entity": "IC卡", "to_entity": "IC卡远传水表", "rel": "产品小类"}
+{"from_entity": "IC卡", "to_entity": "IC卡居住证", "rel": "产品小类"}
+{"from_entity": "IC卡", "to_entity": "非接触式IC卡", "rel": "产品小类"}
+{"from_entity": "棱镜", "to_entity": "DIC棱镜", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "IC芯片", "rel": "产品小类"}
+{"from_entity": "碳化硅", "to_entity": "碳化硅SIC", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "ICP-MS", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "碳化硅SIC", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "MMIC", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "ICASH", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "控制IC", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "ICP焰炬", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "IC卡", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "IC芯片", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "IC电路", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "IC卡居住证", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "IC矮星系", "rel": "产品小类"}
+{"from_entity": "IC", "to_entity": "MOSAIC", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "IC电路", "rel": "产品小类"}
+{"from_entity": "控制", "to_entity": "控制IC", "rel": "产品小类"}
+{"from_entity": "微电子材料", "rel": "上游材料", "to_entity": "GESI合金"}
+{"from_entity": "IC芯片", "rel": "上游材料", "to_entity": "大量微电子元器件"}
+{"from_entity": "有刷直流微电机", "rel": "上游材料", "to_entity": "定子"}
+{"from_entity": "细微电磁线", "rel": "上游材料", "to_entity": "金属导体"}
+{"from_entity": "微电子材料", "rel": "上游材料", "to_entity": "宽禁带半导体材料"}
+{"from_entity": "细微电磁线", "rel": "上游材料", "to_entity": "涂覆绝缘漆膜"}
+{"from_entity": "汽车滤光屏", "rel": "上游材料", "to_entity": "微电脑控制系统"}
+{"from_entity": "磁电子", "rel": "上游材料", "to_entity": "微电子学相结合"}
+{"from_entity": "计算机芯片", "rel": "上游材料", "to_entity": "许多微电路"}
+{"from_entity": "有刷直流微电机", "rel": "上游材料", "to_entity": "转子"}
+{"from_entity": "控制系统", "to_entity": "微电脑控制系统", "rel": "产品小类"}
+{"from_entity": "材料", "to_entity": "微电子材料", "rel": "产品小类"}
+{"from_entity": "电子材料", "to_entity": "微电子材料", "rel": "产品小类"}
+{"from_entity": "填料", "to_entity": "微电解填料", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "许多微电路", "rel": "产品小类"}
+{"from_entity": "微电子", "to_entity": "微电子材料", "rel": "产品小类"}
+{"from_entity": "微电子", "to_entity": "微电子学相结合", "rel": "产品小类"}
+{"from_entity": "微电子", "to_entity": "微电子学院", "rel": "产品小类"}
+{"from_entity": "设备", "to_entity": "微电解设备", "rel": "产品小类"}
+{"from_entity": "电脑", "to_entity": "微电脑", "rel": "产品小类"}
+{"from_entity": "电磁线", "to_entity": "细微电磁线", "rel": "产品小类"}
+{"from_entity": "微电机", "to_entity": "有刷直流微电机", "rel": "产品小类"}
+{"from_entity": "电子元器件", "to_entity": "大量微电子元器件", "rel": "产品小类"}
+{"from_entity": "电机", "to_entity": "微电机", "rel": "产品小类"}
+{"from_entity": "子元器件", "to_entity": "大量微电子元器件", "rel": "产品小类"}
+{"from_entity": "数字电路", "rel": "上游材料", "to_entity": "半导体工艺制成数字集成器件"}
+{"from_entity": "数字集成电路", "rel": "上游材料", "to_entity": "编号"}
+{"from_entity": "实木集成地板", "rel": "上游材料", "to_entity": "不同规格木材"}
+{"from_entity": "集成橱柜", "rel": "上游材料", "to_entity": "橱柜"}
+{"from_entity": "微型计算机", "rel": "上游材料", "to_entity": "大规模集成电路"}
+{"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "电路"}
+{"from_entity": "潍坊集成灶", "rel": "上游材料", "to_entity": "风扇"}
+{"from_entity": "供应链集成", "rel": "上游材料", "to_entity": "供应商"}
+{"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "固定封环"}
+{"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "硅基板"}
+{"from_entity": "集成电路板", "rel": "上游材料", "to_entity": "硅胶"}
+{"from_entity": "智能集成吊顶", "rel": "上游材料", "to_entity": "基础件"}
+{"from_entity": "视频互动系统", "rel": "上游材料", "to_entity": "集成传感系统"}
+{"from_entity": "电子节拍器", "rel": "上游材料", "to_entity": "集成电路"}
+{"from_entity": "音响设备", "rel": "上游材料", "to_entity": "集成电路"}
+{"from_entity": "电子仪表", "rel": "上游材料", "to_entity": "集成电路"}
+{"from_entity": "IC电路", "rel": "上游材料", "to_entity": "集成电路板二"}
+{"from_entity": "电视遥控器", "rel": "上游材料", "to_entity": "集成电路电板"}
+{"from_entity": "集成逻辑门", "rel": "上游材料", "to_entity": "晶体管"}
+{"from_entity": "神经", "rel": "上游材料", "to_entity": "聚集成束神经纤维"}
+{"from_entity": "供应链集成", "rel": "上游材料", "to_entity": "客户"}
+{"from_entity": "集成供暖", "rel": "上游材料", "to_entity": "连接件"}
+{"from_entity": "集成吊顶扣板", "rel": "上游材料", "to_entity": "铝板"}
+{"from_entity": "基准电压源", "rel": "上游材料", "to_entity": "模拟集成电路"}
+{"from_entity": "数字集成电路", "rel": "上游材料", "to_entity": "前缀"}
+{"from_entity": "集成橱柜", "rel": "上游材料", "to_entity": "燃气灶具"}
+{"from_entity": "集成供暖", "rel": "上游材料", "to_entity": "散热器"}
+{"from_entity": "系统集成商", "rel": "上游材料", "to_entity": "设备系统集成"}
+{"from_entity": "集成传感器", "rel": "上游材料", "to_entity": "生产硅基半导体集成"}
+{"from_entity": "全集成主板", "rel": "上游材料", "to_entity": "声卡"}
+{"from_entity": "应用集成", "rel": "上游材料", "to_entity": "数据库"}
+{"from_entity": "微波与天线", "rel": "上游材料", "to_entity": "微波集成传输线"}
+{"from_entity": "集成三仙丹", "rel": "上游材料", "to_entity": "五灵脂"}
+{"from_entity": "全集成主板", "rel": "上游材料", "to_entity": "显卡"}
+{"from_entity": "集成橱柜", "rel": "上游材料", "to_entity": "消毒柜"}
+{"from_entity": "智能化集成系统", "rel": "上游材料", "to_entity": "信息设施系统"}
+{"from_entity": "集成吊顶照明模块", "rel": "上游材料", "to_entity": "荧光粉是生产制造荧光灯重要"}
+{"from_entity": "系统集成商", "rel": "上游材料", "to_entity": "应用系统集成"}
+{"from_entity": "应用集成", "rel": "上游材料", "to_entity": "用户界面"}
+{"from_entity": "实木门", "rel": "上游材料", "to_entity": "者实木集成材"}
+{"from_entity": "智能化集成系统", "rel": "上游材料", "to_entity": "智能化继承系统"}
+{"from_entity": "智能", "to_entity": "智能集成吊顶", "rel": "产品小类"}
+{"from_entity": "电路板", "to_entity": "集成电路板", "rel": "产品小类"}
+{"from_entity": "集成灶", "to_entity": "潍坊集成灶", "rel": "产品小类"}
+{"from_entity": "橱柜", "to_entity": "集成橱柜", "rel": "产品小类"}
+{"from_entity": "主板", "to_entity": "全集成主板", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "系统集成", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成开发环境", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路电板", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路板二", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路板", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "应用系统集成", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成逻辑门", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成三仙丹", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成供暖", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成吊顶扣板", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成橱柜", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成传感器", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成传感系统", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "供应链集成", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路芯片", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "应用集成", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "集成电路", "rel": "产品小类"}
+{"from_entity": "集成", "to_entity": "设备系统集成", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "模拟集成电路", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "中大规模集成电路", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "半导体集成电路", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路MMIC", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路电板", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路板二", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路板", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "大规模集成电路", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "集成电路芯片", "rel": "产品小类"}
+{"from_entity": "集成电路", "to_entity": "数字集成电路", "rel": "产品小类"}
+{"from_entity": "集成吊顶", "to_entity": "集成吊顶照明模块", "rel": "产品小类"}
+{"from_entity": "集成吊顶", "to_entity": "智能集成吊顶", "rel": "产品小类"}
+{"from_entity": "集成吊顶", "to_entity": "集成吊顶扣板", "rel": "产品小类"}
+{"from_entity": "环境", "to_entity": "集成开发环境", "rel": "产品小类"}
+{"from_entity": "控制器", "to_entity": "电子集成控制器", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体集成电路", "rel": "产品小类"}
+{"from_entity": "地板", "to_entity": "实木集成地板", "rel": "产品小类"}
+{"from_entity": "大规模集成电路", "to_entity": "中大规模集成电路", "rel": "产品小类"}
+{"from_entity": "供应链", "to_entity": "供应链集成", "rel": "产品小类"}
+{"from_entity": "芯片", "to_entity": "集成电路芯片", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "模拟集成电路", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "集成电路", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "数字集成电路", "rel": "产品小类"}
+{"from_entity": "应用", "to_entity": "应用系统集成", "rel": "产品小类"}
+{"from_entity": "应用", "to_entity": "应用集成", "rel": "产品小类"}
+{"from_entity": "蓄电池", "to_entity": "蓄电池集成体", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "系统集成", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "系统集成商", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "集成传感系统", "rel": "产品小类"}
+{"from_entity": "设备", "to_entity": "设备系统集成", "rel": "产品小类"}
+{"from_entity": "智能化", "to_entity": "智能化集成系统", "rel": "产品小类"}
+{"from_entity": "传感器", "to_entity": "集成传感器", "rel": "产品小类"}
+{"from_entity": "系统集成", "to_entity": "应用系统集成", "rel": "产品小类"}
+{"from_entity": "系统集成", "to_entity": "系统集成商", "rel": "产品小类"}
+{"from_entity": "系统集成", "to_entity": "设备系统集成", "rel": "产品小类"}
+{"from_entity": "供暖", "to_entity": "集成供暖", "rel": "产品小类"}
+{"from_entity": "应用系统", "to_entity": "应用系统集成", "rel": "产品小类"}
+{"from_entity": "数字", "to_entity": "数字集成电路", "rel": "产品小类"}
+{"from_entity": "数字电路", "rel": "上游材料", "to_entity": "半导体工艺制成数字集成器件"}
+{"from_entity": "石英晶体器件", "rel": "上游材料", "to_entity": "半导体器件"}
+{"from_entity": "无触点继电器", "rel": "上游材料", "to_entity": "半导体器件"}
+{"from_entity": "微波电控器件", "rel": "上游材料", "to_entity": "参数可电调材料"}
+{"from_entity": "IC芯片", "rel": "上游材料", "to_entity": "大量微电子元器件"}
+{"from_entity": "无源器件", "rel": "上游材料", "to_entity": "电感类"}
+{"from_entity": "旅行充电器", "rel": "上游材料", "to_entity": "电力电子半导体元器件"}
+{"from_entity": "电力电子电路", "rel": "上游材料", "to_entity": "电力电子器件"}
+{"from_entity": "无源器件", "rel": "上游材料", "to_entity": "电容类器件"}
+{"from_entity": "红外成像器件", "rel": "上游材料", "to_entity": "电子光学系统"}
+{"from_entity": "电子电路", "rel": "上游材料", "to_entity": "电子器件"}
+{"from_entity": "黑家电", "rel": "上游材料", "to_entity": "电子元器件"}
+{"from_entity": "无源器件", "rel": "上游材料", "to_entity": "电阻类"}
+ {"from_entity": "非晶态半导体器件", "rel": "上游材料", "to_entity": "非晶硅太阳能电池"}
+ {"from_entity": "调压模块", "rel": "上游材料", "to_entity": "分离器件"}
+ {"from_entity": "曼瑞德温控器", "rel": "上游材料", "to_entity": "高精度电子元器件"}
+ {"from_entity": "红外成像器件", "rel": "上游材料", "to_entity": "光电阴极"}
+ {"from_entity": "光模块", "rel": "上游材料", "to_entity": "光电子器件"}
+ {"from_entity": "光纤模块", "rel": "上游材料", "to_entity": "光电子器件"}
+ {"from_entity": "光电继电器", "rel": "上游材料", "to_entity": "光敏器件"}
+ {"from_entity": "脆性材料", "rel": "上游材料", "to_entity": "器件"}
+ {"from_entity": "微波电控器件", "rel": "上游材料", "to_entity": "器件"}
+ {"from_entity": "半导体器件", "rel": "上游材料", "to_entity": "砷化镓"}
+ {"from_entity": "石英晶体器件", "rel": "上游材料", "to_entity": "石英晶体"}
+ {"from_entity": "微光电视", "rel": "上游材料", "to_entity": "微光电视摄像器件"}
+ {"from_entity": "无源网络", "rel": "上游材料", "to_entity": "无源器件"}
+ {"from_entity": "高低压开关柜", "rel": "上游材料", "to_entity": "一些开关断路器之类保护器件"}
+ {"from_entity": "红外成像器件", "rel": "上游材料", "to_entity": "荧光屏"}
+ {"from_entity": "液晶显示器件", "rel": "上游材料", "to_entity": "有机分子"}
+ {"from_entity": "飞行器试验", "rel": "上游材料", "to_entity": "元器件试验"}
+ {"from_entity": "电动四轮车控制器", "rel": "上游材料", "to_entity": "周边器件"}
+ {"from_entity": "物理传感器", "rel": "上游材料", "to_entity": "转换器件"}
+ {"from_entity": "电子系统", "rel": "上游材料", "to_entity": "子元器件"}
+ {"from_entity": "电子器件", "to_entity": "电力电子器件", "rel": "产品小类"}
+ {"from_entity": "电子器件", "to_entity": "光电子器件", "rel": "产品小类"}
+ {"from_entity": "半导体器件", "to_entity": "非晶态半导体器件", "rel": "产品小类"}
+ {"from_entity": "试验", "to_entity": "元器件试验", "rel": "产品小类"}
+ {"from_entity": "红外", "to_entity": "红外成像器件", "rel": "产品小类"}
+ {"from_entity": "半导体", "to_entity": "半导体器件", "rel": "产品小类"}
+ {"from_entity": "光器件", "to_entity": "发光器件", "rel": "产品小类"}
+ {"from_entity": "电力", "to_entity": "电力电子器件", "rel": "产品小类"}
+ {"from_entity": "液晶显示", "to_entity": "液晶显示器件", "rel": "产品小类"}
+ {"from_entity": "电子", "to_entity": "电子器件", "rel": "产品小类"}
+ {"from_entity": "电子", "to_entity": "电子元器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "周边器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "红外成像器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "波器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "磁阻器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "液晶显示器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "电力电子器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "子元器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "分离器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "电容类器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "转换器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "器件参数", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "电子器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "微波电控器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "电子元器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "全控型器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "半导体器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "光敏器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "光电子器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "石英晶体器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "发光器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "无源器件", "rel": "产品小类"}
+ {"from_entity": "器件", "to_entity": "表示器件", "rel": "产品小类"}
+ {"from_entity": "半导体元器件", "to_entity": "电力电子半导体元器件", "rel": "产品小类"}
+ {"from_entity": "液晶显示器", "to_entity": "液晶显示器件", "rel": "产品小类"}
+ {"from_entity": "晶体器件", "to_entity": "石英晶体器件", "rel": "产品小类"}
+ {"from_entity": "元器件", "to_entity": "元器件试验", "rel": "产品小类"}
+ {"from_entity": "元器件", "to_entity": "子元器件", "rel": "产品小类"}
+ {"from_entity": "元器件", "to_entity": "电子元器件", "rel": "产品小类"}
+ {"from_entity": "电力电子", "to_entity": "电力电子器件", "rel": "产品小类"}
+ {"from_entity": "周边", "to_entity": "周边器件", "rel": "产品小类"}
+ {"from_entity": "显示器件", "to_entity": "液晶显示器件", "rel": "产品小类"}
+ {"from_entity": "光电", "to_entity": "光电子器件", "rel": "产品小类"}
+ {"from_entity": "电子元器件", "to_entity": "高精度电子元器件", "rel": "产品小类"}
+ {"from_entity": "电子元器件", "to_entity": "大量微电子元器件", "rel": "产品小类"}
+ {"from_entity": "电容", "to_entity": "电容类器件", "rel": "产品小类"}
+ {"from_entity": "石英晶体", "to_entity": "石英晶体器件", "rel": "产品小类"}
+ {"from_entity": "光电子", "to_entity": "光电子器件", "rel": "产品小类"}
+ {"from_entity": "转换器", "to_entity": "转换器件", "rel": "产品小类"}
+ {"from_entity": "石英", "to_entity": "石英晶体器件", "rel": "产品小类"}
+ {"from_entity": "转换", "to_entity": "转换器件", "rel": "产品小类"}
+ {"from_entity": "子元器件", "to_entity": "高精度电子元器件", "rel": "产品小类"}
+ {"from_entity": "子元器件", "to_entity": "大量微电子元器件", "rel": "产品小类"}
+ {"from_entity": "子元器件", "to_entity": "电子元器件", "rel": "产品小类"}
+ {"from_entity": "非接触式IC卡", "rel": "上游材料", "to_entity": "IC芯片"}
+ {"from_entity": "二代证读卡器", "rel": "上游材料", "to_entity": "RFID芯片"}
+ {"from_entity": "赛格导航芯片", "rel": "上游材料", "to_entity": "RF射频芯片"}
+  {"from_entity": "三维芯片", "rel": "上游材料", "to_entity": "绑定材料层"}
+  {"from_entity": "薄膜发电", "rel": "上游材料", "to_entity": "薄膜太阳能电池芯片"}
+  {"from_entity": "KD-高性能计算机", "rel": "上游材料", "to_entity": "超多端口千兆以太网交换芯片"}
+  {"from_entity": "容错计算机系统", "rel": "上游材料", "to_entity": "存储芯片"}
+  {"from_entity": "IC芯片", "rel": "上游材料", "to_entity": "大量微电子元器件"}
+  {"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "电路"}
+  {"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "固定封环"}
+  {"from_entity": "计算机芯片", "rel": "上游材料", "to_entity": "硅材料"}
+  {"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "硅基板"}
+  {"from_entity": "赛格导航芯片", "rel": "上游材料", "to_entity": "基带芯片"}
+  {"from_entity": "生物芯片", "rel": "上游材料", "to_entity": "基因芯片"}
+  {"from_entity": "三维芯片", "rel": "上游材料", "to_entity": "晶片"}
+  {"from_entity": "时钟电路", "rel": "上游材料", "to_entity": "晶震控制芯片"}
+  {"from_entity": "芯片镊子", "rel": "上游材料", "to_entity": "聚醚醚酮"}
+  {"from_entity": "汽车氧吧", "rel": "上游材料", "to_entity": "生态负离子生成芯片"}
+  {"from_entity": "数据采集单元", "rel": "上游材料", "to_entity": "数字信号处理芯片"}
+  {"from_entity": "三维芯片", "rel": "上游材料", "to_entity": "体硅层"}
+  {"from_entity": "赛格导航芯片", "rel": "上游材料", "to_entity": "微处理器"}
+  {"from_entity": "空调遥控器", "rel": "上游材料", "to_entity": "微处理器芯片"}
+  {"from_entity": "能耗数据采集器", "rel": "上游材料", "to_entity": "微处理器芯片"}
+  {"from_entity": "电视机遥控器", "rel": "上游材料", "to_entity": "微处理器芯片"}
+  {"from_entity": "串口无线模块", "rel": "上游材料", "to_entity": "无线收发芯片"}
+  {"from_entity": "生物芯片", "rel": "上游材料", "to_entity": "细胞芯片"}
+  {"from_entity": "音乐芯片", "rel": "上游材料", "to_entity": "小量分立元件"}
+  {"from_entity": "车载导航仪", "rel": "上游材料", "to_entity": "芯片"}
+  {"from_entity": "安普锐摄像机", "rel": "上游材料", "to_entity": "芯片"}
+  {"from_entity": "塑胶U盘", "rel": "上游材料", "to_entity": "芯片"}
+  {"from_entity": "计算机芯片", "rel": "上游材料", "to_entity": "许多微电路"}
+  {"from_entity": "单片计算机", "rel": "上游材料", "to_entity": "一块芯片"}
+  {"from_entity": "汽车干扰器", "rel": "上游材料", "to_entity": "一块芯片"}
+  {"from_entity": "音乐芯片", "rel": "上游材料", "to_entity": "振荡电路"}
+  {"from_entity": "芯片武器", "rel": "上游材料", "to_entity": "中央处理器CPU"}
+  {"from_entity": "电动四轮车控制器", "rel": "上游材料", "to_entity": "主芯片"}
+  {"from_entity": "无线", "to_entity": "无线收发芯片", "rel": "产品小类"}
+  {"from_entity": "集成", "to_entity": "集成电路芯片", "rel": "产品小类"}
+  {"from_entity": "集成电路", "to_entity": "集成电路芯片", "rel": "产品小类"}
+  {"from_entity": "存储", "to_entity": "存储芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "微处理器芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "图像处理芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "晶震控制芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "计算机芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "显示芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "存储芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "芯片镊子", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "生物芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "南桥芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "音乐芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "主芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "基因芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "三维芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "将CPU芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "RFID芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "赛格导航芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "细胞芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "无线收发芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "一块芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "北桥芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "RF射频芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "IC芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "密码生成芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "基带芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "集成电路芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "数字处理芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "高性能芯片", "rel": "产品小类"}
+  {"from_entity": "芯片", "to_entity": "芯片武器", "rel": "产品小类"}
+  {"from_entity": "音乐", "to_entity": "音乐芯片", "rel": "产品小类"}
+  {"from_entity": "密码", "to_entity": "密码生成芯片", "rel": "产品小类"}
+  {"from_entity": "IC", "to_entity": "IC芯片", "rel": "产品小类"}
+  {"from_entity": "射频芯片", "to_entity": "RF射频芯片", "rel": "产品小类"}
+  {"from_entity": "计算机", "to_entity": "计算机芯片", "rel": "产品小类"}
+  {"from_entity": "RFID", "to_entity": "RFID芯片", "rel": "产品小类"}
+  {"from_entity": "生物", "to_entity": "生物芯片", "rel": "产品小类"}
+  {"from_entity": "基因", "to_entity": "基因芯片", "rel": "产品小类"}
+  {"from_entity": "数字", "to_entity": "数字处理芯片", "rel": "产品小类"}
+  {"from_entity": "信息指示灯", "rel": "上游材料", "to_entity": "LED材料"}
+{"from_entity": "亚力字", "rel": "上游材料", "to_entity": "LED灯"}
+{"from_entity": "超级隐形眼镜", "rel": "上游材料", "to_entity": "LED灯"}
+{"from_entity": "珠宝灯具LED", "rel": "上游材料", "to_entity": "LED灯散热器"}
+{"from_entity": "LED钥匙扣", "rel": "上游材料", "to_entity": "LED灯头"}
+{"from_entity": "LED舞台灯", "rel": "上游材料", "to_entity": "LED灯珠"}
+{"from_entity": "LED彩幕", "rel": "上游材料", "to_entity": "LED点阵"}
+{"from_entity": "LED彩幕屏", "rel": "上游材料", "to_entity": "LED点阵"}
+{"from_entity": "显示屏幕", "rel": "上游材料", "to_entity": "LED点阵"}
+{"from_entity": "LED电子显示屏", "rel": "上游材料", "to_entity": "LED矩阵块"}
+{"from_entity": "汽车牌照灯", "rel": "上游材料", "to_entity": "LED牌照灯"}
+{"from_entity": "汽车转向灯", "rel": "上游材料", "to_entity": "LED汽车转向灯"}
+{"from_entity": "LED信息发布系统", "rel": "上游材料", "to_entity": "LED显示屏"}
+{"from_entity": "LED补光灯", "rel": "上游材料", "to_entity": "N型半导体"}
+{"from_entity": "LED电视透镜", "rel": "上游材料", "to_entity": "PC原料生产注塑"}
+{"from_entity": "LED钥匙扣", "rel": "上游材料", "to_entity": "PP环保塑料外壳"}
+{"from_entity": "LED补光灯", "rel": "上游材料", "to_entity": "P型半导体"}
+{"from_entity": "LED手电筒", "rel": "上游材料", "to_entity": "半导体材料"}
+{"from_entity": "段LED显示器", "rel": "上游材料", "to_entity": "半导体发光二极管"}
+{"from_entity": "LED夹具", "rel": "上游材料", "to_entity": "采用进口硬质合金铝"}
+{"from_entity": "LED荧光板", "rel": "上游材料", "to_entity": "采用面光源显示荧光效果较佳"}
+{"from_entity": "LED条屏", "rel": "上游材料", "to_entity": "单元板"}
+{"from_entity": "LED数码管", "rel": "上游材料", "to_entity": "多发光二极管封装在一起"}
+{"from_entity": "LED舞台灯", "rel": "上游材料", "to_entity": "二次光学镜片"}
+{"from_entity": "LED灯泡", "rel": "上游材料", "to_entity": "发光二极管"}
+{"from_entity": "LED加油站灯", "rel": "上游材料", "to_entity": "发光二极管"}
+{"from_entity": "智能LED灯泡", "rel": "上游材料", "to_entity": "发光二极管"}
+{"from_entity": "LED显示屏控制器", "rel": "上游材料", "to_entity": "发送卡"}
+{"from_entity": "LED护栏管灯", "rel": "上游材料", "to_entity": "防冻胀"}
+{"from_entity": "LED路灯灯头", "rel": "上游材料", "to_entity": "高纯度铝质反射器"}
+{"from_entity": "高亮条形光源", "rel": "上游材料", "to_entity": "高密度直插式LED阵列"}
+{"from_entity": "LED分光机", "rel": "上游材料", "to_entity": "高速光学光谱仪"}
+{"from_entity": "LED护眼台灯", "rel": "上游材料", "to_entity": "光二极管"}
+{"from_entity": "LED检测仪", "rel": "上游材料", "to_entity": "光谱分析仪"}
+{"from_entity": "LED射灯透镜", "rel": "上游材料", "to_entity": "光学级PMMA"}
+{"from_entity": "LED手表", "rel": "上游材料", "to_entity": "硅胶手表"}
+{"from_entity": "LED交通信号灯", "rel": "上游材料", "to_entity": "红灯"}
+{"from_entity": "RGBLED显示屏", "rel": "上游材料", "to_entity": "红绿蓝三种发光二极管"}
+{"from_entity": "三基色LED", "rel": "上游材料", "to_entity": "红绿蓝三种颜色"}
+{"from_entity": "LED交通信号灯", "rel": "上游材料", "to_entity": "黄灯"}
+{"from_entity": "LED电视透镜", "rel": "上游材料", "to_entity": "进口三菱PMMA"}
+{"from_entity": "LED软光条", "rel": "上游材料", "to_entity": "聚酰亚胺PI基材"}
+{"from_entity": "LED条屏", "rel": "上游材料", "to_entity": "开关电源"}
+{"from_entity": "LED护栏管灯", "rel": "上游材料", "to_entity": "抗极限寒热老化强"}
+{"from_entity": "LED条屏", "rel": "上游材料", "to_entity": "控制卡"}
+{"from_entity": "LED显示屏控制卡", "rel": "上游材料", "to_entity": "控制系统"}
+{"from_entity": "LED交通信号灯", "rel": "上游材料", "to_entity": "绿灯"}
+{"from_entity": "珠宝灯具LED", "rel": "上游材料", "to_entity": "面盖"}
+{"from_entity": "LED灯杯", "rel": "上游材料", "to_entity": "耐热阻燃乳白色PC料"}
+{"from_entity": "弱电系统", "rel": "上游材料", "to_entity": "全铝制LED监视器"}
+{"from_entity": "大屏幕显示系统", "rel": "上游材料", "to_entity": "全铝制LED监视器"}
+{"from_entity": "视频安防监控系统", "rel": "上游材料", "to_entity": "全铝制LED监视器"}
+{"from_entity": "视频监控系统", "rel": "上游材料", "to_entity": "全铝制LED监视器"}
+{"from_entity": "中控系统", "rel": "上游材料", "to_entity": "全铝制LED监视器"}
+{"from_entity": "视频监控设备", "rel": "上游材料", "to_entity": "全铝制LED监视器"}
+{"from_entity": "监控安装", "rel": "上游材料", "to_entity": "全铝制LED监视器"}
+{"from_entity": "LED铝基板", "rel": "上游材料", "to_entity": "铜箔"}
+{"from_entity": "珠宝灯具LED", "rel": "上游材料", "to_entity": "透镜"}
+{"from_entity": "LED舞台灯", "rel": "上游材料", "to_entity": "外壳"}
+{"from_entity": "珠宝灯具LED", "rel": "上游材料", "to_entity": "外壳"}
+{"from_entity": "银河系礼服", "rel": "上游材料", "to_entity": "万颗全彩LED灯"}
+{"from_entity": "LED信息发布系统", "rel": "上游材料", "to_entity": "网络平台"}
+{"from_entity": "LED灯具外壳", "rel": "上游材料", "to_entity": "吸塑压力板"}
+{"from_entity": "LED导电银胶", "rel": "上游材料", "to_entity": "以基体树脂"}
+{"from_entity": "白光LED", "rel": "上游材料", "to_entity": "荧光粉"}
+{"from_entity": "LED发光灯", "rel": "上游材料", "to_entity": "有机发光二极管OLED"}
+{"from_entity": "夹具", "to_entity": "LED夹具", "rel": "产品小类"}
+{"from_entity": "交通信号灯", "to_entity": "LED交通信号灯", "rel": "产品小类"}
+{"from_entity": "LED灯具", "to_entity": "LED灯具外壳", "rel": "产品小类"}
+{"from_entity": "LED光源", "to_entity": "LED光源模块", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED牌照灯", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED条屏", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED手表", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED导电银胶", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED材料", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED护眼台灯", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "三基色LED", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED彩幕", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED点阵", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED灯杯", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED补光灯", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED显示屏", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED荧光板", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED灯珠", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED灯散热器", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED数码管", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED铝基板", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED软光条", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED灯泡", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED电视透镜", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "白光LED", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED灯", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED发光灯", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED射灯透镜", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED手电筒", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED舞台灯", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED矩阵块", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "珠宝灯具LED", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED夹具", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED彩幕屏", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED分光机", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED灯具外壳", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED护栏管灯", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED加油站灯", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED钥匙扣", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED灯头", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED灯供电", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED光源模块", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED路灯灯头", "rel": "产品小类"}
+{"from_entity": "LED", "to_entity": "LED检测仪", "rel": "产品小类"}
+{"from_entity": "供电", "to_entity": "LED灯供电", "rel": "产品小类"}
+{"from_entity": "材料", "to_entity": "LED材料", "rel": "产品小类"}
+{"from_entity": "LED灯", "to_entity": "LED灯杯", "rel": "产品小类"}
+{"from_entity": "LED灯", "to_entity": "LED灯珠", "rel": "产品小类"}
+{"from_entity": "LED灯", "to_entity": "LED灯散热器", "rel": "产品小类"}
+{"from_entity": "LED灯", "to_entity": "LED灯泡", "rel": "产品小类"}
+{"from_entity": "LED灯", "to_entity": "亮度LED灯", "rel": "产品小类"}
+{"from_entity": "LED灯", "to_entity": "LED灯具外壳", "rel": "产品小类"}
+{"from_entity": "LED灯", "to_entity": "LED灯头", "rel": "产品小类"}
+{"from_entity": "LED灯", "to_entity": "LED灯供电", "rel": "产品小类"}
+{"from_entity": "LED灯", "to_entity": "万颗全彩LED灯", "rel": "产品小类"}
+{"from_entity": "数码管", "to_entity": "LED数码管", "rel": "产品小类"}
+{"from_entity": "基板", "to_entity": "LED铝基板", "rel": "产品小类"}
+{"from_entity": "散热器", "to_entity": "LED灯散热器", "rel": "产品小类"}
+{"from_entity": "LED显示", "to_entity": "LED显示屏控制器", "rel": "产品小类"}
+{"from_entity": "LED显示", "to_entity": "LED显示屏", "rel": "产品小类"}
+{"from_entity": "LED显示", "to_entity": "LED显示屏控制卡", "rel": "产品小类"}
+{"from_entity": "LED灯泡", "to_entity": "智能LED灯泡", "rel": "产品小类"}
+{"from_entity": "LED显示屏", "to_entity": "LED显示屏控制器", "rel": "产品小类"}
+{"from_entity": "LED显示屏", "to_entity": "LED显示屏控制卡", "rel": "产品小类"}
+{"from_entity": "LED显示屏", "to_entity": "RGBLED显示屏", "rel": "产品小类"}
+{"from_entity": "显示器", "to_entity": "段LED显示器", "rel": "产品小类"}
+{"from_entity": "LED路灯", "to_entity": "LED路灯灯头", "rel": "产品小类"}
+{"from_entity": "电子显示屏", "to_entity": "LED电子显示屏", "rel": "产品小类"}
+{"from_entity": "发光二极管", "to_entity": "LED发光二极管", "rel": "产品小类"}
+{"from_entity": "LED材料", "to_entity": "AMOLED材料", "rel": "产品小类"}
+{"from_entity": "显示屏", "to_entity": "LED显示屏", "rel": "产品小类"}
+{"from_entity": "不锈钢蚀刻板", "rel": "上游材料", "to_entity": "K镜面板"}
+{"from_entity": "太阳能面板", "rel": "上游材料", "to_entity": "半导体材料"}
+{"from_entity": "塑料贴面板", "rel": "上游材料", "to_entity": "表层纸"}
+{"from_entity": "点式玻璃幕墙", "rel": "上游材料", "to_entity": "玻璃面板"}
+ {"from_entity": "防腐屋面板", "rel": "上游材料", "to_entity": "防腐屋面板"}
+ {"from_entity": "屋面板", "rel": "上游材料", "to_entity": "合金"}
+ {"from_entity": "塑料贴面板", "rel": "上游材料", "to_entity": "基层纸"}
+ {"from_entity": "低温试验机", "rel": "上游材料", "to_entity": "镜面板"}
+ {"from_entity": "金属检测机", "rel": "上游材料", "to_entity": "控制面板"}
+ {"from_entity": "屋面板", "rel": "上游材料", "to_entity": "铝镁锰"}
+ {"from_entity": "电脑机箱", "rel": "上游材料", "to_entity": "面板"}
+ {"from_entity": "安全电磁炉", "rel": "上游材料", "to_entity": "面板"}
+ {"from_entity": "木模板", "rel": "上游材料", "to_entity": "面板"}
+ {"from_entity": "铝板幕墙", "rel": "上游材料", "to_entity": "面板"}
+ {"from_entity": "铝合金箱包", "rel": "上游材料", "to_entity": "面板"}
+ {"from_entity": "电磁吸盘", "rel": "上游材料", "to_entity": "面板"}
+ {"from_entity": "夹芯材料", "rel": "上游材料", "to_entity": "面板—芯材—面板"}
+ {"from_entity": "保温板模具", "rel": "上游材料", "to_entity": "上基面板"}
+ {"from_entity": "石材幕墙", "rel": "上游材料", "to_entity": "石材面板"}
+ {"from_entity": "固定隔断", "rel": "上游材料", "to_entity": "饰面板材"}
+ {"from_entity": "电热膜温控器", "rel": "上游材料", "to_entity": "温控显示面板"}
+ {"from_entity": "保温板模具", "rel": "上游材料", "to_entity": "下基面板"}
+ {"from_entity": "酒吧电视墙", "rel": "上游材料", "to_entity": "液晶面板拼接处理器音响控制系统"}
+ {"from_entity": "塑料贴面板", "rel": "上游材料", "to_entity": "遮盖纸"}
+ {"from_entity": "贴面板热压机", "rel": "上游材料", "to_entity": "装饰布"}
+ {"from_entity": "塑料贴面板", "rel": "上游材料", "to_entity": "装饰纸"}
+ {"from_entity": "贴面板热压机", "rel": "上游材料", "to_entity": "装饰纸"}
+ {"from_entity": "板材", "to_entity": "饰面板材", "rel": "产品小类"}
+ {"from_entity": "压机", "to_entity": "贴面板热压机", "rel": "产品小类"}
+ {"from_entity": "碳纤维", "to_entity": "碳纤维面板", "rel": "产品小类"}
+ {"from_entity": "贴面板", "to_entity": "塑料贴面板", "rel": "产品小类"}
+ {"from_entity": "贴面板", "to_entity": "贴面板热压机", "rel": "产品小类"}
+ {"from_entity": "偏光片", "to_entity": "柔性面板偏光片", "rel": "产品小类"}
+ {"from_entity": "玻璃", "to_entity": "玻璃面板", "rel": "产品小类"}
+ {"from_entity": "塑料", "to_entity": "塑料贴面板", "rel": "产品小类"}
+ {"from_entity": "支架", "to_entity": "面板支架", "rel": "产品小类"}
+ {"from_entity": "铝合金", "to_entity": "铝合金面板", "rel": "产品小类"}
+ {"from_entity": "饰面板", "to_entity": "饰面板材", "rel": "产品小类"}
+ {"from_entity": "太阳能", "to_entity": "太阳能面板", "rel": "产品小类"}
+ {"from_entity": "瓷砖", "to_entity": "瓷砖面板", "rel": "产品小类"}
+ {"from_entity": "石材", "to_entity": "石材面板", "rel": "产品小类"}
+ {"from_entity": "防腐", "to_entity": "防腐屋面板", "rel": "产品小类"}
+ {"from_entity": "不锈钢", "to_entity": "不锈钢面板", "rel": "产品小类"}
+ {"from_entity": "不锈钢", "to_entity": "不锈钢镜面板", "rel": "产品小类"}
+ {"from_entity": "太阳", "to_entity": "太阳能面板", "rel": "产品小类"}
+ {"from_entity": "屋面", "to_entity": "屋面板", "rel": "产品小类"}
+ {"from_entity": "控制", "to_entity": "控制面板", "rel": "产品小类"}
+ {"from_entity": "电子称重", "rel": "上游材料", "to_entity": "D电路"}
+ {"from_entity": "LCM", "rel": "上游材料", "to_entity": "PCB电路板"}
+ {"from_entity": "塑胶U盘", "rel": "上游材料", "to_entity": "PCB电路板"}
+ {"from_entity": "RC电路板", "rel": "上游材料", "to_entity": "RC网络"}
+ {"from_entity": "起搏器", "rel": "上游材料", "to_entity": "安装在金属盒中电路"}
+ {"from_entity": "二极管门电路", "rel": "上游材料", "to_entity": "半导体二极管"}
+ {"from_entity": "数字电路", "rel": "上游材料", "to_entity": "半导体工艺制成数字集成器件"}
+ {"from_entity": "汽车蓄电池焊接机", "rel": "上游材料", "to_entity": "保护电路"}
+ {"from_entity": "输入保护电路", "rel": "上游材料", "to_entity": "保险丝"}
+ {"from_entity": "基因电路", "rel": "上游材料", "to_entity": "被调节基因"}
+ {"from_entity": "史密斯特电路", "rel": "上游材料", "to_entity": "比较器"}
+ {"from_entity": "数字集成电路", "rel": "上游材料", "to_entity": "编号"}
+ {"from_entity": "整流电路", "rel": "上游材料", "to_entity": "变压器"}
+ {"from_entity": "光纤网络电路", "rel": "上游材料", "to_entity": "玻璃"}
+ {"from_entity": "间接矢量控制系统", "rel": "上游材料", "to_entity": "采样电路"}
+ {"from_entity": "真尚有激光传感器", "rel": "上游材料", "to_entity": "测量电路"}
+ {"from_entity": "电子称重", "rel": "上游材料", "to_entity": "传感器电路"}
+ {"from_entity": "微型计算机", "rel": "上游材料", "to_entity": "大规模集成电路"}
+ {"from_entity": "RLC电路", "rel": "上游材料", "to_entity": "电感"}
+ {"from_entity": "LC振荡电路", "rel": "上游材料", "to_entity": "电感L"}
+ {"from_entity": "模具清洗机", "rel": "上游材料", "to_entity": "电解电路系统"}
+ {"from_entity": "滤波电路", "rel": "上游材料", "to_entity": "电抗元件"}
+ {"from_entity": "电力电子电路", "rel": "上游材料", "to_entity": "电力电子器件"}
+ {"from_entity": "恒压源电路", "rel": "上游材料", "to_entity": "电流控制电压源"}
+ {"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "电路"}
+ {"from_entity": "感温火灾探测器", "rel": "上游材料", "to_entity": "电路"}
+ {"from_entity": "超级隐形眼镜", "rel": "上游材料", "to_entity": "电路"}
+ {"from_entity": "救生衣灯", "rel": "上游材料", "to_entity": "电路板"}
+ {"from_entity": "电脑风扇", "rel": "上游材料", "to_entity": "电路板"}
+ {"from_entity": "黑家电", "rel": "上游材料", "to_entity": "电路板"}
+ {"from_entity": "计算机直接制版", "rel": "上游材料", "to_entity": "电路系统"}
+ {"from_entity": "汽车电路", "rel": "上游材料", "to_entity": "电器"}
+ {"from_entity": "时钟电路", "rel": "上游材料", "to_entity": "电容"}
+ {"from_entity": "逻辑门电路", "rel": "上游材料", "to_entity": "电容"}
+ {"from_entity": "LC振荡电路", "rel": "上游材料", "to_entity": "电容C"}
+ {"from_entity": "RLC电路", "rel": "上游材料", "to_entity": "电容电路"}
+ {"from_entity": "弧长控制", "rel": "上游材料", "to_entity": "电容滤波电路"}
+ {"from_entity": "汽车电路", "rel": "上游材料", "to_entity": "电线"}
+ {"from_entity": "聚合物电芯", "rel": "上游材料", "to_entity": "电芯保护电路板"}
+ {"from_entity": "恒流源电路", "rel": "上游材料", "to_entity": "电压控制电流源"}
+ {"from_entity": "汽车电路", "rel": "上游材料", "to_entity": "电源"}
+ {"from_entity": "便携式电疗仪", "rel": "上游材料", "to_entity": "电源电路"}
+ {"from_entity": "计算机交换机", "rel": "上游材料", "to_entity": "电源电路"}
+ {"from_entity": "电子点火装置", "rel": "上游材料", "to_entity": "电子点火电路"}
+ {"from_entity": "数字化仪", "rel": "上游材料", "to_entity": "电子电路"}
+ {"from_entity": "电子电路", "rel": "上游材料", "to_entity": "电子器件"}
+ {"from_entity": "逻辑门电路", "rel": "上游材料", "to_entity": "电阻"}
+ {"from_entity": "二阶电路", "rel": "上游材料", "to_entity": "动态元件"}
+ {"from_entity": "线性电路", "rel": "上游材料", "to_entity": "独立源"}
+ {"from_entity": "读写系统", "rel": "上游材料", "to_entity": "读写电路"}
+ {"from_entity": "逻辑门电路", "rel": "上游材料", "to_entity": "二极管"}
+ {"from_entity": "遥控设备", "rel": "上游材料", "to_entity": "发射电路"}
+ {"from_entity": "输入保护电路", "rel": "上游材料", "to_entity": "反极性保护二级管"}
+ {"from_entity": "反馈放大电路", "rel": "上游材料", "to_entity": "反馈电路"}
+ {"from_entity": "压电传感器", "rel": "上游材料", "to_entity": "放大电路"}
+ {"from_entity": "计算机数据采集", "rel": "上游材料", "to_entity": "放大电路"}
+ {"from_entity": "数据采集处理系统", "rel": "上游材料", "to_entity": "放大电路"}
+ {"from_entity": "光模块", "rel": "上游材料", "to_entity": "功能电路"}
+ {"from_entity": "光纤模块", "rel": "上游材料", "to_entity": "功能电路"}
+ {"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "固定封环"}
+ {"from_entity": "集成电路芯片", "rel": "上游材料", "to_entity": "硅基板"}
+ {"from_entity": "集成电路板", "rel": "上游材料", "to_entity": "硅胶"}
+ {"from_entity": "行扫描电路", "rel": "上游材料", "to_entity": "行AFC电路"}
+ {"from_entity": "行扫描电路", "rel": "上游材料", "to_entity": "行振荡电路"}
+ {"from_entity": "理想变压器", "rel": "上游材料", "to_entity": "基本电路元件"}
+ {"from_entity": "反馈放大电路", "rel": "上游材料", "to_entity": "基本放大电路"}
+ {"from_entity": "硬连线控制器", "rel": "上游材料", "to_entity": "基本逻辑电路"}
+ {"from_entity": "半导体激光电源", "rel": "上游材料", "to_entity": "激光电源脉冲控制电路"}
+ {"from_entity": "激光导向仪", "rel": "上游材料", "to_entity": "激光发生电路"}
+ {"from_entity": "电子节拍器", "rel": "上游材料", "to_entity": "集成电路"}
+ {"from_entity": "音响设备", "rel": "上游材料", "to_entity": "集成电路"}
+ {"from_entity": "电子仪表", "rel": "上游材料", "to_entity": "集成电路"}
+ {"from_entity": "IC电路", "rel": "上游材料", "to_entity": "集成电路板二"}
+ {"from_entity": "电视遥控器", "rel": "上游材料", "to_entity": "集成电路电板"}
+ {"from_entity": "磁栅式传感器", "rel": "上游材料", "to_entity": "检测电路"}
+ {"from_entity": "分选台", "rel": "上游材料", "to_entity": "检测电路"}
+ {"from_entity": "电子式蜂鸣器", "rel": "上游材料", "to_entity": "简单电子电路"}
+ {"from_entity": "电脑接口", "rel": "上游材料", "to_entity": "接口电路"}
+ {"from_entity": "遥控设备", "rel": "上游材料", "to_entity": "接收电路"}
+ {"from_entity": "时钟电路", "rel": "上游材料", "to_entity": "晶体振荡器"}
+ {"from_entity": "时钟电路", "rel": "上游材料", "to_entity": "晶震控制芯片"}
+ {"from_entity": "并联逆变电路", "rel": "上游材料", "to_entity": "静止式中频加热电"}
+ {"from_entity": "汽车电路", "rel": "上游材料", "to_entity": "开关"}
+ {"from_entity": "电镀电源", "rel": "上游材料", "to_entity": "控制电路"}
+ {"from_entity": "电热风机", "rel": "上游材料", "to_entity": "控制电路"}
+ {"from_entity": "便携式热风器", "rel": "上游材料", "to_entity": "控制电路"}
+ {"from_entity": "便携式热风机", "rel": "上游材料", "to_entity": "控制电路"}
+ {"from_entity": "液体流量表", "rel": "上游材料", "to_entity": "控制电路"}
+ {"from_entity": "光纤液位计", "rel": "上游材料", "to_entity": "控制电路终端"}
+ {"from_entity": "电力电子装置", "rel": "上游材料", "to_entity": "类电力电子电路"}
+ {"from_entity": "全波整流电路", "rel": "上游材料", "to_entity": "两整流器"}
+ {"from_entity": "逆变变压器", "rel": "上游材料", "to_entity": "滤波电路"}
+ {"from_entity": "整流电路", "rel": "上游材料", "to_entity": "滤波器"}
+ {"from_entity": "半导体激光电源", "rel": "上游材料", "to_entity": "脉冲控制电路"}
+ {"from_entity": "计算机逻辑电路", "rel": "上游材料", "to_entity": "门电路"}
+ {"from_entity": "测量电路", "rel": "上游材料", "to_entity": "敏感元件"}
+ {"from_entity": "基准电压源", "rel": "上游材料", "to_entity": "模拟集成电路"}
+ {"from_entity": "电雷管电阻", "rel": "上游材料", "to_entity": "模数转换电路"}
+ {"from_entity": "气象数据采集系统", "rel": "上游材料", "to_entity": "前端模拟采集电路"}
+ {"from_entity": "数字集成电路", "rel": "上游材料", "to_entity": "前缀"}
+ {"from_entity": "IC电路", "rel": "上游材料", "to_entity": "三极管"}
+ {"from_entity": "汽车电子控制单元", "rel": "上游材料", "to_entity": "输入电路"}
+ {"from_entity": "电路板回收设备", "rel": "上游材料", "to_entity": "树脂纤维粉末混合物"}
+ {"from_entity": "便携式电疗仪", "rel": "上游材料", "to_entity": "数模转换电路"}
+ {"from_entity": "力平衡式传感器", "rel": "上游材料", "to_entity": "伺服电路"}
+ {"from_entity": "光纤网络电路", "rel": "上游材料", "to_entity": "塑料制成纤维"}
+ {"from_entity": "基因电路", "rel": "上游材料", "to_entity": "调节元件"}
+ {"from_entity": "铁磁谐振电路", "rel": "上游材料", "to_entity": "铁心电感元件"}
+ {"from_entity": "无线漏电探测器", "rel": "上游材料", "to_entity": "微型无线电发射电路"}
+ {"from_entity": "半导体激光电源", "rel": "上游材料", "to_entity": "稳压电路"}
+ {"from_entity": "液体流量表", "rel": "上游材料", "to_entity": "显示电路"}
+ {"from_entity": "线性电路", "rel": "上游材料", "to_entity": "线性受控源"}
+ {"from_entity": "线性电路", "rel": "上游材料", "to_entity": "线性元件"}
+ {"from_entity": "RC电路板", "rel": "上游材料", "to_entity": "相移电路"}
+ {"from_entity": "计算机芯片", "rel": "上游材料", "to_entity": "许多微电路"}
+ {"from_entity": "数码像框", "rel": "上游材料", "to_entity": "印制电路板"}
+ {"from_entity": "半桥电路", "rel": "上游材料", "to_entity": "用于驱动"}
+ {"from_entity": "电路测试机", "rel": "上游材料", "to_entity": "元件引脚脚印"}
+ {"from_entity": "运算电路", "rel": "上游材料", "to_entity": "运放"}
+ {"from_entity": "电路测试机", "rel": "上游材料", "to_entity": "针床"}
+ {"from_entity": "音乐芯片", "rel": "上游材料", "to_entity": "振荡电路"}
+ {"from_entity": "计算机交换机", "rel": "上游材料", "to_entity": "振铃电路"}
+ {"from_entity": "英规电源适配器", "rel": "上游材料", "to_entity": "整流电路"}
+ {"from_entity": "电源适配器", "rel": "上游材料", "to_entity": "整流电路"}
+ {"from_entity": "整流电路", "rel": "上游材料", "to_entity": "整流主电路"}
+ {"from_entity": "测量电路", "rel": "上游材料", "to_entity": "转化元件"}
+ {"from_entity": "物理传感器", "rel": "上游材料", "to_entity": "转换电路"}
+ {"from_entity": "电路板", "to_entity": "RC电路板", "rel": "产品小类"}
+ {"from_entity": "电路板", "to_entity": "电路板回收设备", "rel": "产品小类"}
+ {"from_entity": "电路板", "to_entity": "集成电路板", "rel": "产品小类"}
+ {"from_entity": "电路板", "to_entity": "PCB电路板", "rel": "产品小类"}
+ {"from_entity": "电路板", "to_entity": "电芯保护电路板", "rel": "产品小类"}
+ {"from_entity": "电路板", "to_entity": "印制电路板", "rel": "产品小类"}
+ {"from_entity": "激光", "to_entity": "激光发生电路", "rel": "产品小类"}
+ {"from_entity": "集成", "to_entity": "集成电路电板", "rel": "产品小类"}
+ {"from_entity": "集成", "to_entity": "集成电路板二", "rel": "产品小类"}
+ {"from_entity": "集成", "to_entity": "集成电路板", "rel": "产品小类"}
+ {"from_entity": "集成", "to_entity": "集成电路芯片", "rel": "产品小类"}
+ {"from_entity": "集成", "to_entity": "集成电路", "rel": "产品小类"}
+ {"from_entity": "集成电路", "to_entity": "模拟集成电路", "rel": "产品小类"}
+ {"from_entity": "集成电路", "to_entity": "中大规模集成电路", "rel": "产品小类"}
+ {"from_entity": "集成电路", "to_entity": "半导体集成电路", "rel": "产品小类"}
+ {"from_entity": "集成电路", "to_entity": "集成电路MMIC", "rel": "产品小类"}
+ {"from_entity": "集成电路", "to_entity": "集成电路电板", "rel": "产品小类"}
+ {"from_entity": "集成电路", "to_entity": "集成电路板二", "rel": "产品小类"}
+ {"from_entity": "集成电路", "to_entity": "集成电路板", "rel": "产品小类"}
+ {"from_entity": "集成电路", "to_entity": "大规模集成电路", "rel": "产品小类"}
+ {"from_entity": "集成电路", "to_entity": "集成电路芯片", "rel": "产品小类"}
+ {"from_entity": "集成电路", "to_entity": "数字集成电路", "rel": "产品小类"}
+ {"from_entity": "PC", "to_entity": "PCB电路板", "rel": "产品小类"}
+ {"from_entity": "测试机", "to_entity": "电路测试机", "rel": "产品小类"}
+ {"from_entity": "元件", "to_entity": "基本电路元件", "rel": "产品小类"}
+ {"from_entity": "元件", "to_entity": "电路元件", "rel": "产品小类"}
+ {"from_entity": "电源", "to_entity": "电源电路", "rel": "产品小类"}
+ {"from_entity": "红外", "to_entity": "红外接收电路", "rel": "产品小类"}
+ {"from_entity": "半导体", "to_entity": "半导体集成电路", "rel": "产品小类"}
+ {"from_entity": "印制", "to_entity": "印制电路板", "rel": "产品小类"}
+ {"from_entity": "套管", "to_entity": "电路套管", "rel": "产品小类"}
+ {"from_entity": "汽车", "to_entity": "汽车电路", "rel": "产品小类"}
+ {"from_entity": "大规模集成电路", "to_entity": "中大规模集成电路", "rel": "产品小类"}
+ {"from_entity": "终端", "to_entity": "控制电路终端", "rel": "产品小类"}
+ {"from_entity": "检测", "to_entity": "检测电路", "rel": "产品小类"}
+ {"from_entity": "电力", "to_entity": "电力电子电路", "rel": "产品小类"}
+ {"from_entity": "芯片", "to_entity": "集成电路芯片", "rel": "产品小类"}
+ {"from_entity": "电子", "to_entity": "电子电路", "rel": "产品小类"}
+ {"from_entity": "电子", "to_entity": "电子点火电路", "rel": "产品小类"}
+ {"from_entity": "IC", "to_entity": "IC电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "整流电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "红外接收电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "显示电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "LC振荡电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "恒流源电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "驱动电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "全波整流电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "闭合电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "模拟集成电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "史密斯特电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "差分电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "汽车电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "反馈放大电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "开关电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "伺服电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "D电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "许多微电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "激光发生电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "线性电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "译码电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电子电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "控制电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "模数转换电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电路压降", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电容电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "整流主电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "半桥电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "测量电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "波形形成电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "振铃电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "发射电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "接口电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "转换电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "放大输出电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "高频振荡电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "行振荡电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "接收电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "保护电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "积分电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "射频电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "数模转换电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电路单元", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "光纤网络电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "输入保护电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "调制电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "滤波电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "逻辑电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "功能电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "行扫描电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "硬件电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "定位指示电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电路测试机", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电子点火电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "简单电子电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电路系统", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "逻辑门电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电源电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "基本放大电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "突触四大电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "输入接口电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "并联逆变电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "行AFC电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "二阶电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "RLC电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电路元件", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "计数电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "放大电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "传感器电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "时钟电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "二极管门电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "输出接口电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "检测电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "采样电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "IC电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "数字电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "脉冲控制电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "基本逻辑电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "门电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "读写电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "输入电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电力电子电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "集成电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "振荡电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电容滤波电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "相移电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电路套管", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "电路板", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "运算电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "稳压电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "基因电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "恒压源电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "数字集成电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "反馈电路", "rel": "产品小类"}
+ {"from_entity": "电路", "to_entity": "铁磁谐振电路", "rel": "产品小类"}
+ {"from_entity": "开关", "to_entity": "开关电路", "rel": "产品小类"}
+ {"from_entity": "电子电路", "to_entity": "类电力电子电路", "rel": "产品小类"}
+ {"from_entity": "电子电路", "to_entity": "简单电子电路", "rel": "产品小类"}
+ {"from_entity": "电子电路", "to_entity": "电力电子电路", "rel": "产品小类"}
+ {"from_entity": "计算机", "to_entity": "计算机逻辑电路", "rel": "产品小类"}
+ {"from_entity": "系统", "to_entity": "电解电路系统", "rel": "产品小类"}
+ {"from_entity": "系统", "to_entity": "电路系统", "rel": "产品小类"}
+ {"from_entity": "驱动", "to_entity": "驱动电路", "rel": "产品小类"}
+ {"from_entity": "硬件", "to_entity": "硬件电路", "rel": "产品小类"}
+ {"from_entity": "电力电子", "to_entity": "电力电子电路", "rel": "产品小类"}
+ {"from_entity": "光纤", "to_entity": "光纤网络电路", "rel": "产品小类"}
+ {"from_entity": "传感器", "to_entity": "传感器电路", "rel": "产品小类"}
+ {"from_entity": "PCB", "to_entity": "PCB电路板", "rel": "产品小类"}
+ {"from_entity": "二极管", "to_entity": "二极管门电路", "rel": "产品小类"}
+ {"from_entity": "电容", "to_entity": "电容电路", "rel": "产品小类"}
+ {"from_entity": "电容", "to_entity": "电容滤波电路", "rel": "产品小类"}
+ {"from_entity": "射频", "to_entity": "射频电路", "rel": "产品小类"}
+ {"from_entity": "基因", "to_entity": "基因电路", "rel": "产品小类"}
+ {"from_entity": "数字", "to_entity": "数字电路", "rel": "产品小类"}
+ {"from_entity": "数字", "to_entity": "数字集成电路", "rel": "产品小类"}
+ {"from_entity": "输入", "to_entity": "输入保护电路", "rel": "产品小类"}
+ {"from_entity": "输入", "to_entity": "输入接口电路", "rel": "产品小类"}
+ {"from_entity": "输入", "to_entity": "输入电路", "rel": "产品小类"}
+ {"from_entity": "转换", "to_entity": "转换电路", "rel": "产品小类"}
+ {"from_entity": "逻辑", "to_entity": "逻辑电路", "rel": "产品小类"}
+ {"from_entity": "逻辑", "to_entity": "逻辑门电路", "rel": "产品小类"}
+ {"from_entity": "测量", "to_entity": "测量电路", "rel": "产品小类"}
+ {"from_entity": "整流电路", "to_entity": "全波整流电路", "rel": "产品小类"}
+ {"from_entity": "输出", "to_entity": "输出接口电路", "rel": "产品小类"}
+ {"from_entity": "控制", "to_entity": "控制电路终端", "rel": "产品小类"}
+ {"from_entity": "控制", "to_entity": "控制电路", "rel": "产品小类"}
+ {"from_entity": "电子称重", "rel": "上游材料", "to_entity": "D电路"}
+{"from_entity": "电子登机牌", "rel": "上游材料", "to_entity": "D条形码有关航班文字信息"}
+{"from_entity": "微电子材料", "rel": "上游材料", "to_entity": "GESI合金"}
+{"from_entity": "LED电子显示屏", "rel": "上游材料", "to_entity": "LED矩阵块"}
+{"from_entity": "电子皮肤", "rel": "上游材料", "to_entity": "QCT复合材料"}
+{"from_entity": "贵度电子烟", "rel": "上游材料", "to_entity": "USB接头"}
+{"from_entity": "电子镇流器", "rel": "上游材料", "to_entity": "半导体电子元件"}
+{"from_entity": "电子镇流", "rel": "上游材料", "to_entity": "半导体电子元件"}
+{"from_entity": "电子雷管", "rel": "上游材料", "to_entity": "编码器"}
+{"from_entity": "电子引伸计", "rel": "上游材料", "to_entity": "变形传递杆"}
+{"from_entity": "电子标签系统", "rel": "上游材料", "to_entity": "标签"}
+{"from_entity": "RFID电子门票", "rel": "上游材料", "to_entity": "标签阅读器"}
+{"from_entity": "电子烟液", "rel": "上游材料", "to_entity": "丙二醇"}
+{"from_entity": "电子烟油", "rel": "上游材料", "to_entity": "丙二醇"}
+{"from_entity": "电子烟液", "rel": "上游材料", "to_entity": "丙三醇"}
+{"from_entity": "电子封装", "rel": "上游材料", "to_entity": "玻璃以"}
+{"from_entity": "电子商务", "rel": "上游材料", "to_entity": "产品"}
+{"from_entity": "电子吊磅秤", "rel": "上游材料", "to_entity": "称重传感器"}
+{"from_entity": "电子行车秤", "rel": "上游材料", "to_entity": "称重传感器"}
+{"from_entity": "电子吊磅称", "rel": "上游材料", "to_entity": "称重传感器"}
+{"from_entity": "电子吊磅秤", "rel": "上游材料", "to_entity": "称重显示器"}
+{"from_entity": "电子行车秤", "rel": "上游材料", "to_entity": "称重显示器"}
+{"from_entity": "电子吊磅称", "rel": "上游材料", "to_entity": "称重显示器"}
+{"from_entity": "电子汽车衡", "rel": "上游材料", "to_entity": "称重显示仪表"}
+{"from_entity": "电子吊秤", "rel": "上游材料", "to_entity": "称重显现掌握器"}
+{"from_entity": "电子控制器", "rel": "上游材料", "to_entity": "程序计数器"}
+{"from_entity": "电子吊秤", "rel": "上游材料", "to_entity": "秤架"}
+{"from_entity": "电子吊磅秤", "rel": "上游材料", "to_entity": "秤体"}
+{"from_entity": "电子行车秤", "rel": "上游材料", "to_entity": "秤体"}
+{"from_entity": "电子吊磅称", "rel": "上游材料", "to_entity": "秤体"}
+{"from_entity": "电子吊秤", "rel": "上游材料", "to_entity": "传感器"}
+{"from_entity": "汽车电子点火系统", "rel": "上游材料", "to_entity": "传感器"}
+{"from_entity": "电子流量计", "rel": "上游材料", "to_entity": "传感器"}
+{"from_entity": "电子称重", "rel": "上游材料", "to_entity": "传感器电路"}
+{"from_entity": "磁电子", "rel": "上游材料", "to_entity": "磁电子材料制"}
+{"from_entity": "磁电子", "rel": "上游材料", "to_entity": "磁学"}
+{"from_entity": "数字电子计算机", "rel": "上游材料", "to_entity": "存储系统"}
+{"from_entity": "IC芯片", "rel": "上游材料", "to_entity": "大量微电子元器件"}
+{"from_entity": "电子引伸计", "rel": "上游材料", "to_entity": "弹性元件"}
+{"from_entity": "航空电子", "rel": "上游材料", "to_entity": "导航"}
+{"from_entity": "汽车电子点火系统", "rel": "上游材料", "to_entity": "点火线"}
+{"from_entity": "电子点火装置", "rel": "上游材料", "to_entity": "点火线圈"}
+{"from_entity": "易星电子烟", "rel": "上游材料", "to_entity": "电池杆"}
+{"from_entity": "旅行充电器", "rel": "上游材料", "to_entity": "电力电子半导体元器件"}
+{"from_entity": "电力电子电路", "rel": "上游材料", "to_entity": "电力电子器件"}
+{"from_entity": "电磁弹射器", "rel": "上游材料", "to_entity": "电力电子系统"}
+{"from_entity": "电力变流器", "rel": "上游材料", "to_entity": "电力电子装置连同变流变压器"}
+{"from_entity": "电子式互感器", "rel": "上游材料", "to_entity": "电流传感器"}
+{"from_entity": "电子内窥镜", "rel": "上游材料", "to_entity": "电视监示器"}
+{"from_entity": "电子胃镜", "rel": "上游材料", "to_entity": "电视监视器"}
+{"from_entity": "电子尺", "rel": "上游材料", "to_entity": "电刷"}
+{"from_entity": "电子打火枪", "rel": "上游材料", "to_entity": "电陶瓷"}
+{"from_entity": "电子驱鼠器", "rel": "上游材料", "to_entity": "电源"}
+{"from_entity": "汽车电子点火系统", "rel": "上游材料", "to_entity": "电源"}
+{"from_entity": "电子显微镜", "rel": "上游材料", "to_entity": "电源柜"}
+{"from_entity": "太阳宇宙线", "rel": "上游材料", "to_entity": "电子"}
+{"from_entity": "真空硅脂", "rel": "上游材料", "to_entity": "电子"}
+{"from_entity": "音乐蜡烛", "rel": "上游材料", "to_entity": "电子"}
+{"from_entity": "中科魔变灯箱", "rel": "上游材料", "to_entity": "电子"}
+{"from_entity": "水合电子", "rel": "上游材料", "to_entity": "电子"}
+{"from_entity": "颗粒制冰机", "rel": "上游材料", "to_entity": "电子"}
+{"from_entity": "反电子", "rel": "上游材料", "to_entity": "电子"}
+{"from_entity": "多媒体黑板", "rel": "上游材料", "to_entity": "电子白板"}
+{"from_entity": "RFID粮食仓储", "rel": "上游材料", "to_entity": "电子标签"}
+{"from_entity": "远传水表", "rel": "上游材料", "to_entity": "电子采集发讯模块"}
+{"from_entity": "电子层数", "rel": "上游材料", "to_entity": "电子层存在于原子中"}
+{"from_entity": "电子点火装置", "rel": "上游材料", "to_entity": "电子点火电路"}
+{"from_entity": "数字化仪", "rel": "上游材料", "to_entity": "电子电路"}
+{"from_entity": "FM认证", "rel": "上游材料", "to_entity": "电子电器设备"}
+{"from_entity": "电子风点火器", "rel": "上游材料", "to_entity": "电子风场发生器"}
+{"from_entity": "音响设备", "rel": "上游材料", "to_entity": "电子管"}
+{"from_entity": "电子仪表", "rel": "上游材料", "to_entity": "电子管"}
+{"from_entity": "红外成像器件", "rel": "上游材料", "to_entity": "电子光学系统"}
+{"from_entity": "导盲眼镜", "rel": "上游材料", "to_entity": "电子盒"}
+{"from_entity": "惯性测量系统", "rel": "上游材料", "to_entity": "电子计算机"}
+{"from_entity": "车票", "rel": "上游材料", "to_entity": "电子卡票"}
+{"from_entity": "电子控制转向", "rel": "上游材料", "to_entity": "电子控制"}
+{"from_entity": "汽车尾灯焊接机", "rel": "上游材料", "to_entity": "电子控制箱"}
+{"from_entity": "计量加药系统", "rel": "上游材料", "to_entity": "电子脉冲流量计"}
+{"from_entity": "电子电路", "rel": "上游材料", "to_entity": "电子器件"}
+{"from_entity": "台式显示器", "rel": "上游材料", "to_entity": "电子枪"}
+{"from_entity": "雷达定位管", "rel": "上游材料", "to_entity": "电子枪"}
+{"from_entity": "超市防盗", "rel": "上游材料", "to_entity": "电子软标签"}
+{"from_entity": "电子扫描鸽钟", "rel": "上游材料", "to_entity": "电子扫描踏板"}
+{"from_entity": "电子扫描鸽钟", "rel": "上游材料", "to_entity": "电子扫描足环"}
+{"from_entity": "电力机箱机柜", "rel": "上游材料", "to_entity": "电子设备应用到生活中"}
+{"from_entity": "电子放大镜", "rel": "上游材料", "to_entity": "电子摄像头"}
+{"from_entity": "电子内窥镜", "rel": "上游材料", "to_entity": "电子摄像装置"}
+{"from_entity": "摄像管", "rel": "上游材料", "to_entity": "电子束扫描系统"}
+{"from_entity": "电子围栏系统", "rel": "上游材料", "to_entity": "电子围栏主机"}
+{"from_entity": "电子制版机", "rel": "上游材料", "to_entity": "电子校正"}
+{"from_entity": "整流桥", "rel": "上游材料", "to_entity": "电子元件"}
+{"from_entity": "无触点继电器", "rel": "上游材料", "to_entity": "电子元件"}
+{"from_entity": "黑家电", "rel": "上游材料", "to_entity": "电子元器件"}
+{"from_entity": "居家养老服务", "rel": "上游材料", "to_entity": "电子终端设备"}
+{"from_entity": "电子驱蚊器", "rel": "上游材料", "to_entity": "丁香"}
+{"from_entity": "电子对抗兵", "rel": "上游材料", "to_entity": "独立"}
+{"from_entity": "电子对抗兵", "rel": "上游材料", "to_entity": "队属"}
+{"from_entity": "电子式互感器", "rel": "上游材料", "to_entity": "多电压"}
+{"from_entity": "电子听漏仪", "rel": "上游材料", "to_entity": "耳机"}
+{"from_entity": "上消化道电子内窥镜", "rel": "上游材料", "to_entity": "防水帽"}
+{"from_entity": "太阳能电子闹钟", "rel": "上游材料", "to_entity": "非晶硅太阳能电池板"}
+{"from_entity": "电子分拣系统", "rel": "上游材料", "to_entity": "分类装置"}
+{"from_entity": "电子签章系统", "rel": "上游材料", "to_entity": "服务端"}
+{"from_entity": "电子烟油", "rel": "上游材料", "to_entity": "甘油"}
+{"from_entity": "曼瑞德温控器", "rel": "上游材料", "to_entity": "高精度电子元器件"}
+{"from_entity": "电子栏杆", "rel": "上游材料", "to_entity": "高压电子脉冲主机前端探测栏杆"}
+{"from_entity": "电子数据交换", "rel": "上游材料", "to_entity": "格式转换模式"}
+{"from_entity": "电子支票系统", "rel": "上游材料", "to_entity": "购买方"}
+{"from_entity": "电子邮件地址", "rel": "上游材料", "to_entity": "固定格式"}
+{"from_entity": "电子打火枪", "rel": "上游材料", "to_entity": "固定架片"}
+{"from_entity": "电子制版机", "rel": "上游材料", "to_entity": "光点扫描"}
+{"from_entity": "光模块", "rel": "上游材料", "to_entity": "光电子器件"}
+{"from_entity": "光纤模块", "rel": "上游材料", "to_entity": "光电子器件"}
+{"from_entity": "电子驱蚊器", "rel": "上游材料", "to_entity": "硅胶结合柠檬香茅"}
+{"from_entity": "电子定位胶", "rel": "上游材料", "to_entity": "硅酮"}
+{"from_entity": "电子散热膏", "rel": "上游材料", "to_entity": "硅油"}
+{"from_entity": "原子模型", "rel": "上游材料", "to_entity": "核外电子"}
+{"from_entity": "爱漫语音电子标签", "rel": "上游材料", "to_entity": "呼叫器"}
+{"from_entity": "电子传递链", "rel": "上游材料", "to_entity": "黄素蛋白"}
+{"from_entity": "航空电子设备", "rel": "上游材料", "to_entity": "机载计算机"}
+{"from_entity": "电子票务系统", "rel": "上游材料", "to_entity": "基础设置"}
+{"from_entity": "电子节拍器", "rel": "上游材料", "to_entity": "集成电路"}
+{"from_entity": "电子仪表", "rel": "上游材料", "to_entity": "集成电路"}
+{"from_entity": "电子油墨", "rel": "上游材料", "to_entity": "加工成薄膜状"}
+{"from_entity": "电子熏香炉", "rel": "上游材料", "to_entity": "加热器"}
+{"from_entity": "电子飞靶", "rel": "上游材料", "to_entity": "家庭版"}
+{"from_entity": "电子考官", "rel": "上游材料", "to_entity": "监考车"}
+{"from_entity": "电子考官", "rel": "上游材料", "to_entity": "监控中心"}
+{"from_entity": "电子式蜂鸣器", "rel": "上游材料", "to_entity": "简单电子电路"}
+{"from_entity": "电子管风琴", "rel": "上游材料", "to_entity": "键盘"}
+{"from_entity": "电子支票系统", "rel": "上游材料", "to_entity": "金融中介"}
+{"from_entity": "电子封装", "rel": "上游材料", "to_entity": "金属"}
+{"from_entity": "电子仪表", "rel": "上游材料", "to_entity": "晶体管"}
+{"from_entity": "电子显微镜", "rel": "上游材料", "to_entity": "镜筒"}
+{"from_entity": "电子邮件地址", "rel": "上游材料", "to_entity": "具有规定格式"}
+{"from_entity": "高温电子标签", "rel": "上游材料", "to_entity": "聚苯硫醚"}
+{"from_entity": "耐高温电子标签", "rel": "上游材料", "to_entity": "聚苯硫醚"}
+{"from_entity": "电子考官", "rel": "上游材料", "to_entity": "考试车"}
+{"from_entity": "电子硬盘", "rel": "上游材料", "to_entity": "控制IC"}
+{"from_entity": "电子分拣系统", "rel": "上游材料", "to_entity": "控制装置"}
+{"from_entity": "微电子材料", "rel": "上游材料", "to_entity": "宽禁带半导体材料"}
+{"from_entity": "电子雷管", "rel": "上游材料", "to_entity": "雷管"}
+{"from_entity": "电力电子装置", "rel": "上游材料", "to_entity": "类电力电子电路"}
+{"from_entity": "电子商务师考试", "rel": "上游材料", "to_entity": "理论知识考试"}
+{"from_entity": "电子散热器", "rel": "上游材料", "to_entity": "铝合金"}
+{"from_entity": "电子内窥镜", "rel": "上游材料", "to_entity": "内镜"}
+{"from_entity": "电子胃镜", "rel": "上游材料", "to_entity": "内镜"}
+{"from_entity": "上消化道电子内窥镜", "rel": "上游材料", "to_entity": "内窥镜"}
+{"from_entity": "电子风点火器", "rel": "上游材料", "to_entity": "能量供给系统"}
+{"from_entity": "电子定位胶", "rel": "上游材料", "to_entity": "偶联剂"}
+{"from_entity": "电子雷管", "rel": "上游材料", "to_entity": "起爆器"}
+{"from_entity": "电子围栏系统", "rel": "上游材料", "to_entity": "前端探测围栏"}
+{"from_entity": "电子吊钩秤", "rel": "上游材料", "to_entity": "全钢外壳"}
+{"from_entity": "电子商务", "rel": "上游材料", "to_entity": "商场"}
+{"from_entity": "电子商务", "rel": "上游材料", "to_entity": "商城"}
+{"from_entity": "智能假肢", "rel": "上游材料", "to_entity": "生物电子装置"}
+{"from_entity": "电子胃镜", "rel": "上游材料", "to_entity": "视频处理器"}
+{"from_entity": "液晶电视墙", "rel": "上游材料", "to_entity": "是三星电子推出新"}
+{"from_entity": "液晶电视墙", "rel": "上游材料", "to_entity": "是三星电子推出新一代液晶技术"}
+{"from_entity": "汽车电子控制单元", "rel": "上游材料", "to_entity": "输入电路"}
+{"from_entity": "数字电子计算机", "rel": "上游材料", "to_entity": "输入系统"}
+{"from_entity": "电子分拣系统", "rel": "上游材料", "to_entity": "输送装置"}
+{"from_entity": "高温电子胶", "rel": "上游材料", "to_entity": "树脂"}
+{"from_entity": "电子告示系统", "rel": "上游材料", "to_entity": "数字媒体控制管理系统"}
+{"from_entity": "电子印章系统", "rel": "上游材料", "to_entity": "数字证书认证系统"}
+{"from_entity": "水合电子", "rel": "上游材料", "to_entity": "水分子"}
+{"from_entity": "电子听漏仪", "rel": "上游材料", "to_entity": "探头"}
+{"from_entity": "电子封装", "rel": "上游材料", "to_entity": "陶瓷"}
+{"from_entity": "电子标签系统", "rel": "上游材料", "to_entity": "天线"}
+{"from_entity": "电子式调节阀", "rel": "上游材料", "to_entity": "调节阀"}
+{"from_entity": "航空电子", "rel": "上游材料", "to_entity": "通信"}
+{"from_entity": "电子数据交换", "rel": "上游材料", "to_entity": "通信模块"}
+{"from_entity": "电子侦察吊舱", "rel": "上游材料", "to_entity": "微波接收机"}
+{"from_entity": "磁电子", "rel": "上游材料", "to_entity": "微电子学相结合"}
+{"from_entity": "汽车电子点火系统", "rel": "上游材料", "to_entity": "微机"}
+{"from_entity": "汽车电子控制单元", "rel": "上游材料", "to_entity": "微型计算机"}
+{"from_entity": "液化气电子秤", "rel": "上游材料", "to_entity": "微型计算机"}
+{"from_entity": "低烟无卤电子线", "rel": "上游材料", "to_entity": "无卤PE胶料"}
+{"from_entity": "电子商务", "rel": "上游材料", "to_entity": "物流"}
+{"from_entity": "USB电子烟", "rel": "上游材料", "to_entity": "雾化器"}
+{"from_entity": "贵度电子烟", "rel": "上游材料", "to_entity": "雾化器"}
+{"from_entity": "易星电子烟", "rel": "上游材料", "to_entity": "雾化器"}
+{"from_entity": "上消化道电子内窥镜", "rel": "上游材料", "to_entity": "吸引按钮"}
+{"from_entity": "USB电子烟", "rel": "上游材料", "to_entity": "吸嘴"}
+{"from_entity": "电子票务系统", "rel": "上游材料", "to_entity": "系统管理"}
+{"from_entity": "电子论", "rel": "上游材料", "to_entity": "狭义相对论"}
+{"from_entity": "航空电子", "rel": "上游材料", "to_entity": "显示管理"}
+{"from_entity": "航空电子设备", "rel": "上游材料", "to_entity": "显示器"}
+{"from_entity": "电子节拍器", "rel": "上游材料", "to_entity": "现代半导体"}
+{"from_entity": "电子商务", "rel": "上游材料", "to_entity": "消费者"}
+{"from_entity": "电子支票系统", "rel": "上游材料", "to_entity": "销售方"}
+{"from_entity": "电子吊钩秤", "rel": "上游材料", "to_entity": "卸扣"}
+{"from_entity": "电子散热膏", "rel": "上游材料", "to_entity": "新型金属氧化物"}
+{"from_entity": "电子侦察吊舱", "rel": "上游材料", "to_entity": "信息处理机"}
+{"from_entity": "电子驱蚊器", "rel": "上游材料", "to_entity": "薰衣草"}
+{"from_entity": "电子打火枪", "rel": "上游材料", "to_entity": "压板"}
+{"from_entity": "电子驱鼠器", "rel": "上游材料", "to_entity": "压电蜂鸣器HA"}
+{"from_entity": "贵度电子烟", "rel": "上游材料", "to_entity": "烟弹"}
+{"from_entity": "易星电子烟", "rel": "上游材料", "to_entity": "烟弹"}
+{"from_entity": "USB电子烟", "rel": "上游材料", "to_entity": "烟杆"}
+{"from_entity": "贵度电子烟", "rel": "上游材料", "to_entity": "烟杆"}
+{"from_entity": "电子烟油", "rel": "上游材料", "to_entity": "烟碱"}
+{"from_entity": "电子监控手链", "rel": "上游材料", "to_entity": "一基站"}
+{"from_entity": "电子监控手链", "rel": "上游材料", "to_entity": "一简单电子"}
+{"from_entity": "电子管风琴", "rel": "上游材料", "to_entity": "音序器"}
+{"from_entity": "电子管风琴", "rel": "上游材料", "to_entity": "音源"}
+{"from_entity": "电子引伸计", "rel": "上游材料", "to_entity": "应变片"}
+{"from_entity": "爱漫语音电子标签", "rel": "上游材料", "to_entity": "语音电子标签"}
+{"from_entity": "电子标签系统", "rel": "上游材料", "to_entity": "阅读器"}
+{"from_entity": "电子飞靶", "rel": "上游材料", "to_entity": "运营版"}
+{"from_entity": "液化气电子秤", "rel": "上游材料", "to_entity": "增量调治器"}
+{"from_entity": "电子对抗系统", "rel": "上游材料", "to_entity": "侦察传感设备"}
+{"from_entity": "电子显微镜", "rel": "上游材料", "to_entity": "真空装置"}
+{"from_entity": "电子驱鼠器", "rel": "上游材料", "to_entity": "振荡器"}
+{"from_entity": "电子烟油", "rel": "上游材料", "to_entity": "植物香精"}
+{"from_entity": "防撕电子标签", "rel": "上游材料", "to_entity": "纸质"}
+{"from_entity": "电子控制器", "rel": "上游材料", "to_entity": "指令寄存器"}
+{"from_entity": "数字电子计算机", "rel": "上游材料", "to_entity": "中央处理器"}
+{"from_entity": "电子听漏仪", "rel": "上游材料", "to_entity": "主机"}
+{"from_entity": "电子流量计", "rel": "上游材料", "to_entity": "转换器"}
+{"from_entity": "电子控制转向", "rel": "上游材料", "to_entity": "转向机"}
+{"from_entity": "电子系统", "rel": "上游材料", "to_entity": "子元器件"}
+{"from_entity": "电子尺", "rel": "上游材料", "to_entity": "阻轨"}
+{"from_entity": "电子排污阀", "rel": "上游材料", "to_entity": "阻燃ABS塑料"}
+{"from_entity": "聚对苯二甲酸类塑料", "rel": "下游产品", "to_entity": "电子消费品"}
+{"from_entity": "镀锌板", "rel": "下游产品", "to_entity": "电子消费品"}
+{"from_entity": "电子消费品", "rel": "上游材料", "to_entity": "镀锌板"}
+{"from_entity": "电子消费品", "rel": "上游材料", "to_entity": "聚对苯二甲酸类塑料"}
+{"from_entity": "电子器件", "to_entity": "电力电子器件", "rel": "产品小类"}
+{"from_entity": "电子器件", "to_entity": "光电子器件", "rel": "产品小类"}
+{"from_entity": "电子烟", "to_entity": "贵度电子烟", "rel": "产品小类"}
+{"from_entity": "电子烟", "to_entity": "电子烟油", "rel": "产品小类"}
+{"from_entity": "电子烟", "to_entity": "USB电子烟", "rel": "产品小类"}
+{"from_entity": "电子烟", "to_entity": "易星电子烟", "rel": "产品小类"}
+{"from_entity": "电子烟", "to_entity": "电子烟液", "rel": "产品小类"}
+{"from_entity": "电子系统", "to_entity": "电力电子系统", "rel": "产品小类"}
+{"from_entity": "机械电子", "to_entity": "机械电子驱动系统", "rel": "产品小类"}
+{"from_entity": "转向", "to_entity": "电子控制转向", "rel": "产品小类"}
+{"from_entity": "仪表", "to_entity": "电子仪表", "rel": "产品小类"}
+{"from_entity": "电子管", "to_entity": "电子管风琴", "rel": "产品小类"}
+{"from_entity": "电子对抗", "to_entity": "电子对抗兵", "rel": "产品小类"}
+{"from_entity": "电子对抗", "to_entity": "电子对抗系统", "rel": "产品小类"}
+{"from_entity": "材料", "to_entity": "微电子材料", "rel": "产品小类"}
+{"from_entity": "子系统", "to_entity": "电力电子系统", "rel": "产品小类"}
+{"from_entity": "子系统", "to_entity": "电子系统", "rel": "产品小类"}
+{"from_entity": "电子线", "to_entity": "低烟无卤电子线", "rel": "产品小类"}
+{"from_entity": "电子材料", "to_entity": "微电子材料", "rel": "产品小类"}
+{"from_entity": "控制单元", "to_entity": "电子控制单元", "rel": "产品小类"}
+{"from_entity": "控制单元", "to_entity": "汽车电子控制单元", "rel": "产品小类"}
+{"from_entity": "液化气", "to_entity": "液化气电子秤", "rel": "产品小类"}
+{"from_entity": "电子政务", "to_entity": "廊坊市电子政务", "rel": "产品小类"}
+{"from_entity": "计算机信息处理", "to_entity": "电子计算机信息处理", "rel": "产品小类"}
+{"from_entity": "电子电器", "to_entity": "电子电器设备", "rel": "产品小类"}
+{"from_entity": "电子胶", "to_entity": "高温电子胶", "rel": "产品小类"}
+{"from_entity": "装置", "to_entity": "电子点火装置", "rel": "产品小类"}
+{"from_entity": "装置", "to_entity": "电力电子装置", "rel": "产品小类"}
+{"from_entity": "装置", "to_entity": "电子摄像装置", "rel": "产品小类"}
+{"from_entity": "装置", "to_entity": "生物电子装置", "rel": "产品小类"}
+{"from_entity": "元件", "to_entity": "进口电子元件", "rel": "产品小类"}
+{"from_entity": "元件", "to_entity": "电子元件", "rel": "产品小类"}
+{"from_entity": "通信系统", "to_entity": "通信系统电子信号", "rel": "产品小类"}
+{"from_entity": "控制器", "to_entity": "电子集成控制器", "rel": "产品小类"}
+{"from_entity": "控制器", "to_entity": "电子控制器", "rel": "产品小类"}
+{"from_entity": "控制器", "to_entity": "微型电子控制器", "rel": "产品小类"}
+{"from_entity": "油墨", "to_entity": "电子油墨", "rel": "产品小类"}
+{"from_entity": "散热器", "to_entity": "电子散热器", "rel": "产品小类"}
+{"from_entity": "半导体", "to_entity": "半导体电子元件", "rel": "产品小类"}
+{"from_entity": "模块", "to_entity": "电子控制模块", "rel": "产品小类"}
+{"from_entity": "封装", "to_entity": "电子封装", "rel": "产品小类"}
+{"from_entity": "光学系统", "to_entity": "电子光学系统", "rel": "产品小类"}
+{"from_entity": "调节阀", "to_entity": "电子式调节阀", "rel": "产品小类"}
+{"from_entity": "互感器", "to_entity": "电子式互感器", "rel": "产品小类"}
+{"from_entity": "航空电子", "to_entity": "航空电子设备", "rel": "产品小类"}
+{"from_entity": "电力", "to_entity": "电力电子装置", "rel": "产品小类"}
+{"from_entity": "电力", "to_entity": "电力电子器件", "rel": "产品小类"}
+{"from_entity": "电力", "to_entity": "电力电子系统", "rel": "产品小类"}
+{"from_entity": "电力", "to_entity": "电力电子电路", "rel": "产品小类"}
+{"from_entity": "软标签", "to_entity": "电子软标签", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子管风琴", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子行车秤", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子考官", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子控制转向", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子排污阀", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子枪", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子吊秤", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "反电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子数据交换", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子点火装置", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子光学系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子聚乙烯", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子吊磅秤", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子分拣系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "水合电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子式蜂鸣器", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子控制器", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子油墨", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子控制箱", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "磁电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子管", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子卡票", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子控制模块", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子栏杆", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子电路", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子扫描足环", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子称重", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子驱鼠器", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "Γ射线电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子票务系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "外围电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子标签", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子对抗兵", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子登机牌", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子签章系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子侦察吊舱", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子笔", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子定位胶", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子粉", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子烟油", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "包括电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "一电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子节拍器", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子器件", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子路标", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子白板", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "航空电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子标签系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子告示系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子摄像装置", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子商务", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "核外电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子扫描踏板", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子交易系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子电器设备", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子元器件", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "一简单电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子引伸计", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子胃镜", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子尺", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子式调节阀", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子式互感器", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子汽车衡", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子终端设备", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子吊钩秤", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子制版机", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子封装", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子标签技术", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子监控手链", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子点火电路", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子散热膏", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子听漏仪", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子盒", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子控制单元", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子层数", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子软标签", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子熏香炉", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子扫描鸽钟", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子控制", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子放大镜", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子消费品", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子镇流", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子邮件地址", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子硬盘", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子科技大学", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子打火枪", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子摄像头", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子游戏", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子围栏主机", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子显微镜", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子透镜", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "核外轨道电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子元件", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子计数器", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子散热器", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子天平", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子计算机", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子雷管", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子印章系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子标签卡", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子竞技战队", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子风点火器", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "正电子", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子内窥镜", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子交易灯", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子吊磅称", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子镇流器", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子支票系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子飞靶", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子传递链", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子驱蚊器", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子围栏系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子烟液", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子仪表", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子流量计", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子对抗系统", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子校正", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子引信", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子皮肤", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "电子论", "rel": "产品小类"}
+{"from_entity": "电子", "to_entity": "绕核旋转电子", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "电子电路", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "电子点火电路", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "简单电子电路", "rel": "产品小类"}
+{"from_entity": "电路", "to_entity": "电力电子电路", "rel": "产品小类"}
+{"from_entity": "太阳能", "to_entity": "太阳能电子闹钟", "rel": "产品小类"}
+{"from_entity": "汽车电子", "to_entity": "汽车电子点火系统", "rel": "产品小类"}
+{"from_entity": "汽车电子", "to_entity": "汽车电子控制单元", "rel": "产品小类"}
+{"from_entity": "器件", "to_entity": "电力电子器件", "rel": "产品小类"}
+{"from_entity": "器件", "to_entity": "电子器件", "rel": "产品小类"}
+{"from_entity": "器件", "to_entity": "电子元器件", "rel": "产品小类"}
+{"from_entity": "器件", "to_entity": "光电子器件", "rel": "产品小类"}
+{"from_entity": "电子商务", "to_entity": "电子商务师考试", "rel": "产品小类"}
+{"from_entity": "电子计算机", "to_entity": "电子计算机信息处理", "rel": "产品小类"}
+{"from_entity": "电子计算机", "to_entity": "数字电子计算机", "rel": "产品小类"}
+{"from_entity": "航空", "to_entity": "航空电子设备", "rel": "产品小类"}
+{"from_entity": "航空", "to_entity": "航空电子", "rel": "产品小类"}
+{"from_entity": "聚乙烯", "to_entity": "电子聚乙烯", "rel": "产品小类"}
+{"from_entity": "微电子", "to_entity": "微电子材料", "rel": "产品小类"}
+{"from_entity": "微电子", "to_entity": "微电子学相结合", "rel": "产品小类"}
+{"from_entity": "微电子", "to_entity": "微电子学院", "rel": "产品小类"}
+{"from_entity": "半导体元器件", "to_entity": "电力电子半导体元器件", "rel": "产品小类"}
+{"from_entity": "雷管", "to_entity": "电子雷管", "rel": "产品小类"}
+{"from_entity": "电子科技", "to_entity": "电子科技大学", "rel": "产品小类"}
+{"from_entity": "驱动系统", "to_entity": "机械电子驱动系统", "rel": "产品小类"}
+{"from_entity": "电子电路", "to_entity": "类电力电子电路", "rel": "产品小类"}
+{"from_entity": "电子电路", "to_entity": "简单电子电路", "rel": "产品小类"}
+{"from_entity": "电子电路", "to_entity": "电力电子电路", "rel": "产品小类"}
+{"from_entity": "计算机", "to_entity": "电子计算机", "rel": "产品小类"}
+{"from_entity": "计算机", "to_entity": "数字电子计算机", "rel": "产品小类"}
+{"from_entity": "电子内窥镜", "to_entity": "上消化道电子内窥镜", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子光学系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子分拣系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子票务系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子签章系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子标签系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子告示系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子交易系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电力电子系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子印章系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子支票系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子围栏系统", "rel": "产品小类"}
+{"from_entity": "系统", "to_entity": "电子对抗系统", "rel": "产品小类"}
+{"from_entity": "电子元件", "to_entity": "进口电子元件", "rel": "产品小类"}
+{"from_entity": "电子元件", "to_entity": "半导体电子元件", "rel": "产品小类"}
+{"from_entity": "设备", "to_entity": "航空电子设备", "rel": "产品小类"}
+{"from_entity": "设备", "to_entity": "电子电器设备", "rel": "产品小类"}
+{"from_entity": "设备", "to_entity": "电子终端设备", "rel": "产品小类"}
+{"from_entity": "路标", "to_entity": "电子路标", "rel": "产品小类"}
+{"from_entity": "电器设备", "to_entity": "电子电器设备", "rel": "产品小类"}
+{"from_entity": "电子显示屏", "to_entity": "LED电子显示屏", "rel": "产品小类"}
+{"from_entity": "透镜", "to_entity": "电子透镜", "rel": "产品小类"}
+{"from_entity": "标签", "to_entity": "语音电子标签", "rel": "产品小类"}
+{"from_entity": "标签", "to_entity": "电子标签", "rel": "产品小类"}
+{"from_entity": "标签", "to_entity": "高温电子标签", "rel": "产品小类"}
+{"from_entity": "标签", "to_entity": "防撕电子标签", "rel": "产品小类"}
+{"from_entity": "标签", "to_entity": "电子软标签", "rel": "产品小类"}
+{"from_entity": "元器件", "to_entity": "电子元器件", "rel": "产品小类"}
+{"from_entity": "RFID", "to_entity": "RFID电子门票", "rel": "产品小类"}
+{"from_entity": "生物", "to_entity": "生物电子装置", "rel": "产品小类"}
+{"from_entity": "电力电子", "to_entity": "电力电子装置", "rel": "产品小类"}
+{"from_entity": "电力电子", "to_entity": "电力电子器件", "rel": "产品小类"}
+{"from_entity": "电力电子", "to_entity": "电力电子实验室", "rel": "产品小类"}
+{"from_entity": "电力电子", "to_entity": "电力电子系统", "rel": "产品小类"}
+{"from_entity": "电力电子", "to_entity": "电力电子电路", "rel": "产品小类"}
+{"from_entity": "液化", "to_entity": "液化气电子秤", "rel": "产品小类"}
+{"from_entity": "电子设备", "to_entity": "航空电子设备", "rel": "产品小类"}
+{"from_entity": "摄像头", "to_entity": "电子摄像头", "rel": "产品小类"}
+{"from_entity": "乙烯", "to_entity": "电子聚乙烯", "rel": "产品小类"}
+{"from_entity": "光电", "to_entity": "光电子器件", "rel": "产品小类"}
+{"from_entity": "电子元器件", "to_entity": "高精度电子元器件", "rel": "产品小类"}
+{"from_entity": "电子元器件", "to_entity": "大量微电子元器件", "rel": "产品小类"}
+{"from_entity": "游戏", "to_entity": "电子游戏", "rel": "产品小类"}
+{"from_entity": "硬盘", "to_entity": "电子硬盘", "rel": "产品小类"}
+{"from_entity": "商务", "to_entity": "电子商务", "rel": "产品小类"}
+{"from_entity": "电子标签", "to_entity": "爱漫语音电子标签", "rel": "产品小类"}
+{"from_entity": "电子标签", "to_entity": "耐高温电子标签", "rel": "产品小类"}
+{"from_entity": "电子标签", "to_entity": "语音电子标签", "rel": "产品小类"}
+{"from_entity": "电子标签", "to_entity": "电子标签系统", "rel": "产品小类"}
+{"from_entity": "电子标签", "to_entity": "高温电子标签", "rel": "产品小类"}
+{"from_entity": "电子标签", "to_entity": "防撕电子标签", "rel": "产品小类"}
+{"from_entity": "电子标签", "to_entity": "电子标签技术", "rel": "产品小类"}
+{"from_entity": "电子标签", "to_entity": "电子标签卡", "rel": "产品小类"}
+{"from_entity": "玻璃纤维纱", "to_entity": "电子级玻璃纤维纱", "rel": "产品小类"}
+{"from_entity": "技术", "to_entity": "电子标签技术", "rel": "产品小类"}
+{"from_entity": "光电子", "to_entity": "光电子器件", "rel": "产品小类"}
+{"from_entity": "交换", "to_entity": "电子数据交换", "rel": "产品小类"}
+{"from_entity": "主机", "to_entity": "电子围栏主机", "rel": "产品小类"}
+{"from_entity": "子元器件", "to_entity": "高精度电子元器件", "rel": "产品小类"}
+{"from_entity": "子元器件", "to_entity": "大量微电子元器件", "rel": "产品小类"}
+{"from_entity": "子元器件", "to_entity": "电子元器件", "rel": "产品小类"}
+{"from_entity": "控制", "to_entity": "电子控制", "rel": "产品小类"}
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
